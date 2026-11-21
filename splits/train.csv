@@ -1,0 +1,2945 @@
+index,image_id,label,breed
+0,Abyssinian_100,0,Abyssinian
+3,Abyssinian_103,0,Abyssinian
+4,Abyssinian_104,0,Abyssinian
+5,Abyssinian_105,0,Abyssinian
+6,Abyssinian_106,0,Abyssinian
+7,Abyssinian_107,0,Abyssinian
+8,Abyssinian_108,0,Abyssinian
+9,Abyssinian_109,0,Abyssinian
+10,Abyssinian_10,0,Abyssinian
+11,Abyssinian_110,0,Abyssinian
+12,Abyssinian_111,0,Abyssinian
+13,Abyssinian_112,0,Abyssinian
+15,Abyssinian_114,0,Abyssinian
+16,Abyssinian_115,0,Abyssinian
+17,Abyssinian_116,0,Abyssinian
+18,Abyssinian_117,0,Abyssinian
+19,Abyssinian_118,0,Abyssinian
+22,Abyssinian_120,0,Abyssinian
+24,Abyssinian_122,0,Abyssinian
+25,Abyssinian_123,0,Abyssinian
+26,Abyssinian_124,0,Abyssinian
+27,Abyssinian_125,0,Abyssinian
+28,Abyssinian_126,0,Abyssinian
+30,Abyssinian_128,0,Abyssinian
+31,Abyssinian_129,0,Abyssinian
+32,Abyssinian_12,0,Abyssinian
+33,Abyssinian_130,0,Abyssinian
+34,Abyssinian_131,0,Abyssinian
+35,Abyssinian_132,0,Abyssinian
+36,Abyssinian_133,0,Abyssinian
+38,Abyssinian_135,0,Abyssinian
+39,Abyssinian_136,0,Abyssinian
+40,Abyssinian_137,0,Abyssinian
+41,Abyssinian_138,0,Abyssinian
+42,Abyssinian_139,0,Abyssinian
+43,Abyssinian_13,0,Abyssinian
+44,Abyssinian_140,0,Abyssinian
+45,Abyssinian_141,0,Abyssinian
+46,Abyssinian_142,0,Abyssinian
+47,Abyssinian_143,0,Abyssinian
+48,Abyssinian_144,0,Abyssinian
+49,Abyssinian_145,0,Abyssinian
+50,american_bulldog_100,1,American Bulldog
+51,american_bulldog_101,1,American Bulldog
+52,american_bulldog_102,1,American Bulldog
+53,american_bulldog_103,1,American Bulldog
+55,american_bulldog_105,1,American Bulldog
+58,american_bulldog_108,1,American Bulldog
+59,american_bulldog_109,1,American Bulldog
+60,american_bulldog_10,1,American Bulldog
+62,american_bulldog_111,1,American Bulldog
+63,american_bulldog_112,1,American Bulldog
+64,american_bulldog_113,1,American Bulldog
+65,american_bulldog_114,1,American Bulldog
+66,american_bulldog_115,1,American Bulldog
+67,american_bulldog_116,1,American Bulldog
+68,american_bulldog_117,1,American Bulldog
+69,american_bulldog_118,1,American Bulldog
+70,american_bulldog_119,1,American Bulldog
+71,american_bulldog_11,1,American Bulldog
+73,american_bulldog_121,1,American Bulldog
+74,american_bulldog_122,1,American Bulldog
+75,american_bulldog_123,1,American Bulldog
+76,american_bulldog_124,1,American Bulldog
+78,american_bulldog_126,1,American Bulldog
+79,american_bulldog_127,1,American Bulldog
+80,american_bulldog_128,1,American Bulldog
+81,american_bulldog_129,1,American Bulldog
+85,american_bulldog_132,1,American Bulldog
+87,american_bulldog_134,1,American Bulldog
+88,american_bulldog_135,1,American Bulldog
+89,american_bulldog_136,1,American Bulldog
+91,american_bulldog_138,1,American Bulldog
+92,american_bulldog_139,1,American Bulldog
+94,american_bulldog_140,1,American Bulldog
+95,american_bulldog_141,1,American Bulldog
+96,american_bulldog_142,1,American Bulldog
+98,american_bulldog_144,1,American Bulldog
+99,american_bulldog_146,1,American Bulldog
+102,american_pit_bull_terrier_102,2,American Pit Bull Terrier
+103,american_pit_bull_terrier_103,2,American Pit Bull Terrier
+104,american_pit_bull_terrier_104,2,American Pit Bull Terrier
+105,american_pit_bull_terrier_105,2,American Pit Bull Terrier
+106,american_pit_bull_terrier_106,2,American Pit Bull Terrier
+107,american_pit_bull_terrier_107,2,American Pit Bull Terrier
+108,american_pit_bull_terrier_108,2,American Pit Bull Terrier
+109,american_pit_bull_terrier_109,2,American Pit Bull Terrier
+110,american_pit_bull_terrier_10,2,American Pit Bull Terrier
+111,american_pit_bull_terrier_110,2,American Pit Bull Terrier
+112,american_pit_bull_terrier_111,2,American Pit Bull Terrier
+113,american_pit_bull_terrier_112,2,American Pit Bull Terrier
+114,american_pit_bull_terrier_113,2,American Pit Bull Terrier
+115,american_pit_bull_terrier_114,2,American Pit Bull Terrier
+117,american_pit_bull_terrier_116,2,American Pit Bull Terrier
+119,american_pit_bull_terrier_118,2,American Pit Bull Terrier
+120,american_pit_bull_terrier_119,2,American Pit Bull Terrier
+121,american_pit_bull_terrier_11,2,American Pit Bull Terrier
+122,american_pit_bull_terrier_120,2,American Pit Bull Terrier
+124,american_pit_bull_terrier_122,2,American Pit Bull Terrier
+125,american_pit_bull_terrier_123,2,American Pit Bull Terrier
+126,american_pit_bull_terrier_124,2,American Pit Bull Terrier
+127,american_pit_bull_terrier_125,2,American Pit Bull Terrier
+128,american_pit_bull_terrier_126,2,American Pit Bull Terrier
+129,american_pit_bull_terrier_127,2,American Pit Bull Terrier
+130,american_pit_bull_terrier_128,2,American Pit Bull Terrier
+132,american_pit_bull_terrier_12,2,American Pit Bull Terrier
+133,american_pit_bull_terrier_130,2,American Pit Bull Terrier
+134,american_pit_bull_terrier_131,2,American Pit Bull Terrier
+135,american_pit_bull_terrier_132,2,American Pit Bull Terrier
+136,american_pit_bull_terrier_133,2,American Pit Bull Terrier
+138,american_pit_bull_terrier_135,2,American Pit Bull Terrier
+139,american_pit_bull_terrier_136,2,American Pit Bull Terrier
+140,american_pit_bull_terrier_137,2,American Pit Bull Terrier
+141,american_pit_bull_terrier_138,2,American Pit Bull Terrier
+142,american_pit_bull_terrier_139,2,American Pit Bull Terrier
+144,american_pit_bull_terrier_140,2,American Pit Bull Terrier
+145,american_pit_bull_terrier_141,2,American Pit Bull Terrier
+146,american_pit_bull_terrier_142,2,American Pit Bull Terrier
+147,american_pit_bull_terrier_143,2,American Pit Bull Terrier
+148,american_pit_bull_terrier_144,2,American Pit Bull Terrier
+149,american_pit_bull_terrier_145,2,American Pit Bull Terrier
+150,basset_hound_100,3,Basset Hound
+151,basset_hound_101,3,Basset Hound
+152,basset_hound_102,3,Basset Hound
+154,basset_hound_104,3,Basset Hound
+155,basset_hound_105,3,Basset Hound
+156,basset_hound_106,3,Basset Hound
+158,basset_hound_108,3,Basset Hound
+159,basset_hound_109,3,Basset Hound
+160,basset_hound_10,3,Basset Hound
+161,basset_hound_110,3,Basset Hound
+162,basset_hound_111,3,Basset Hound
+163,basset_hound_112,3,Basset Hound
+164,basset_hound_113,3,Basset Hound
+165,basset_hound_114,3,Basset Hound
+166,basset_hound_115,3,Basset Hound
+167,basset_hound_116,3,Basset Hound
+169,basset_hound_118,3,Basset Hound
+172,basset_hound_120,3,Basset Hound
+173,basset_hound_121,3,Basset Hound
+174,basset_hound_122,3,Basset Hound
+175,basset_hound_123,3,Basset Hound
+178,basset_hound_126,3,Basset Hound
+180,basset_hound_128,3,Basset Hound
+181,basset_hound_129,3,Basset Hound
+182,basset_hound_12,3,Basset Hound
+183,basset_hound_130,3,Basset Hound
+184,basset_hound_131,3,Basset Hound
+185,basset_hound_132,3,Basset Hound
+186,basset_hound_133,3,Basset Hound
+188,basset_hound_135,3,Basset Hound
+189,basset_hound_136,3,Basset Hound
+190,basset_hound_137,3,Basset Hound
+191,basset_hound_138,3,Basset Hound
+192,basset_hound_139,3,Basset Hound
+193,basset_hound_13,3,Basset Hound
+194,basset_hound_140,3,Basset Hound
+195,basset_hound_141,3,Basset Hound
+196,basset_hound_142,3,Basset Hound
+198,basset_hound_144,3,Basset Hound
+199,basset_hound_145,3,Basset Hound
+200,beagle_100,4,Beagle
+201,beagle_101,4,Beagle
+202,beagle_102,4,Beagle
+203,beagle_103,4,Beagle
+206,beagle_107,4,Beagle
+208,beagle_109,4,Beagle
+209,beagle_10,4,Beagle
+210,beagle_110,4,Beagle
+211,beagle_111,4,Beagle
+213,beagle_113,4,Beagle
+214,beagle_114,4,Beagle
+217,beagle_117,4,Beagle
+219,beagle_119,4,Beagle
+220,beagle_120,4,Beagle
+221,beagle_121,4,Beagle
+222,beagle_122,4,Beagle
+223,beagle_123,4,Beagle
+224,beagle_124,4,Beagle
+225,beagle_125,4,Beagle
+226,beagle_126,4,Beagle
+227,beagle_127,4,Beagle
+228,beagle_128,4,Beagle
+230,beagle_12,4,Beagle
+231,beagle_130,4,Beagle
+232,beagle_131,4,Beagle
+233,beagle_133,4,Beagle
+234,beagle_134,4,Beagle
+235,beagle_135,4,Beagle
+236,beagle_136,4,Beagle
+237,beagle_137,4,Beagle
+238,beagle_138,4,Beagle
+240,beagle_13,4,Beagle
+241,beagle_140,4,Beagle
+242,beagle_141,4,Beagle
+243,beagle_142,4,Beagle
+244,beagle_143,4,Beagle
+245,beagle_144,4,Beagle
+247,beagle_146,4,Beagle
+248,beagle_147,4,Beagle
+249,beagle_148,4,Beagle
+250,Bengal_100,5,Bengal
+252,Bengal_102,5,Bengal
+253,Bengal_103,5,Bengal
+254,Bengal_104,5,Bengal
+255,Bengal_105,5,Bengal
+258,Bengal_108,5,Bengal
+259,Bengal_109,5,Bengal
+260,Bengal_10,5,Bengal
+262,Bengal_111,5,Bengal
+263,Bengal_112,5,Bengal
+264,Bengal_113,5,Bengal
+265,Bengal_114,5,Bengal
+266,Bengal_115,5,Bengal
+267,Bengal_116,5,Bengal
+268,Bengal_117,5,Bengal
+269,Bengal_118,5,Bengal
+271,Bengal_11,5,Bengal
+272,Bengal_120,5,Bengal
+273,Bengal_121,5,Bengal
+274,Bengal_122,5,Bengal
+276,Bengal_124,5,Bengal
+277,Bengal_125,5,Bengal
+279,Bengal_127,5,Bengal
+280,Bengal_128,5,Bengal
+281,Bengal_129,5,Bengal
+282,Bengal_12,5,Bengal
+286,Bengal_133,5,Bengal
+287,Bengal_134,5,Bengal
+288,Bengal_135,5,Bengal
+289,Bengal_136,5,Bengal
+290,Bengal_137,5,Bengal
+291,Bengal_138,5,Bengal
+292,Bengal_139,5,Bengal
+293,Bengal_13,5,Bengal
+294,Bengal_140,5,Bengal
+296,Bengal_142,5,Bengal
+297,Bengal_143,5,Bengal
+298,Bengal_144,5,Bengal
+299,Bengal_145,5,Bengal
+300,Birman_100,6,Birman
+301,Birman_101,6,Birman
+302,Birman_102,6,Birman
+304,Birman_104,6,Birman
+305,Birman_105,6,Birman
+306,Birman_106,6,Birman
+307,Birman_107,6,Birman
+308,Birman_108,6,Birman
+309,Birman_109,6,Birman
+310,Birman_10,6,Birman
+311,Birman_110,6,Birman
+313,Birman_112,6,Birman
+314,Birman_113,6,Birman
+315,Birman_114,6,Birman
+317,Birman_116,6,Birman
+319,Birman_118,6,Birman
+320,Birman_119,6,Birman
+321,Birman_11,6,Birman
+322,Birman_120,6,Birman
+323,Birman_121,6,Birman
+324,Birman_122,6,Birman
+325,Birman_123,6,Birman
+326,Birman_124,6,Birman
+327,Birman_125,6,Birman
+328,Birman_126,6,Birman
+329,Birman_127,6,Birman
+331,Birman_129,6,Birman
+332,Birman_12,6,Birman
+333,Birman_130,6,Birman
+334,Birman_131,6,Birman
+336,Birman_133,6,Birman
+337,Birman_134,6,Birman
+339,Birman_136,6,Birman
+340,Birman_137,6,Birman
+341,Birman_138,6,Birman
+342,Birman_139,6,Birman
+343,Birman_13,6,Birman
+345,Birman_141,6,Birman
+346,Birman_142,6,Birman
+347,Birman_143,6,Birman
+348,Birman_144,6,Birman
+349,Birman_145,6,Birman
+351,Bombay_101,7,Bombay
+352,Bombay_102,7,Bombay
+353,Bombay_103,7,Bombay
+356,Bombay_106,7,Bombay
+357,Bombay_107,7,Bombay
+358,Bombay_108,7,Bombay
+359,Bombay_109,7,Bombay
+361,Bombay_110,7,Bombay
+362,Bombay_111,7,Bombay
+363,Bombay_112,7,Bombay
+364,Bombay_113,7,Bombay
+365,Bombay_114,7,Bombay
+366,Bombay_115,7,Bombay
+368,Bombay_117,7,Bombay
+369,Bombay_118,7,Bombay
+371,Bombay_120,7,Bombay
+372,Bombay_121,7,Bombay
+373,Bombay_122,7,Bombay
+374,Bombay_123,7,Bombay
+377,Bombay_127,7,Bombay
+378,Bombay_128,7,Bombay
+379,Bombay_129,7,Bombay
+380,Bombay_12,7,Bombay
+381,Bombay_130,7,Bombay
+383,Bombay_132,7,Bombay
+384,Bombay_133,7,Bombay
+385,Bombay_134,7,Bombay
+386,Bombay_135,7,Bombay
+387,Bombay_136,7,Bombay
+388,Bombay_137,7,Bombay
+389,Bombay_138,7,Bombay
+390,Bombay_139,7,Bombay
+391,Bombay_13,7,Bombay
+392,Bombay_140,7,Bombay
+393,Bombay_141,7,Bombay
+394,Bombay_143,7,Bombay
+395,Bombay_144,7,Bombay
+396,Bombay_145,7,Bombay
+397,Bombay_146,7,Bombay
+399,boxer_100,8,Boxer
+400,boxer_101,8,Boxer
+401,boxer_102,8,Boxer
+403,boxer_104,8,Boxer
+404,boxer_105,8,Boxer
+405,boxer_106,8,Boxer
+407,boxer_108,8,Boxer
+408,boxer_109,8,Boxer
+409,boxer_10,8,Boxer
+410,boxer_110,8,Boxer
+411,boxer_111,8,Boxer
+412,boxer_112,8,Boxer
+413,boxer_113,8,Boxer
+415,boxer_115,8,Boxer
+416,boxer_116,8,Boxer
+417,boxer_117,8,Boxer
+418,boxer_118,8,Boxer
+419,boxer_119,8,Boxer
+420,boxer_11,8,Boxer
+422,boxer_121,8,Boxer
+424,boxer_123,8,Boxer
+426,boxer_125,8,Boxer
+427,boxer_126,8,Boxer
+428,boxer_127,8,Boxer
+429,boxer_128,8,Boxer
+431,boxer_12,8,Boxer
+432,boxer_130,8,Boxer
+433,boxer_131,8,Boxer
+434,boxer_132,8,Boxer
+435,boxer_133,8,Boxer
+436,boxer_134,8,Boxer
+437,boxer_135,8,Boxer
+438,boxer_136,8,Boxer
+439,boxer_137,8,Boxer
+440,boxer_138,8,Boxer
+442,boxer_13,8,Boxer
+443,boxer_140,8,Boxer
+444,boxer_141,8,Boxer
+445,boxer_142,8,Boxer
+446,boxer_143,8,Boxer
+447,boxer_144,8,Boxer
+449,British_Shorthair_100,9,British Shorthair
+450,British_Shorthair_101,9,British Shorthair
+451,British_Shorthair_102,9,British Shorthair
+453,British_Shorthair_104,9,British Shorthair
+455,British_Shorthair_106,9,British Shorthair
+456,British_Shorthair_107,9,British Shorthair
+457,British_Shorthair_108,9,British Shorthair
+458,British_Shorthair_109,9,British Shorthair
+459,British_Shorthair_10,9,British Shorthair
+460,British_Shorthair_110,9,British Shorthair
+461,British_Shorthair_111,9,British Shorthair
+462,British_Shorthair_112,9,British Shorthair
+463,British_Shorthair_113,9,British Shorthair
+464,British_Shorthair_114,9,British Shorthair
+465,British_Shorthair_115,9,British Shorthair
+466,British_Shorthair_116,9,British Shorthair
+467,British_Shorthair_117,9,British Shorthair
+468,British_Shorthair_118,9,British Shorthair
+471,British_Shorthair_121,9,British Shorthair
+473,British_Shorthair_123,9,British Shorthair
+475,British_Shorthair_125,9,British Shorthair
+476,British_Shorthair_126,9,British Shorthair
+477,British_Shorthair_127,9,British Shorthair
+478,British_Shorthair_128,9,British Shorthair
+479,British_Shorthair_129,9,British Shorthair
+480,British_Shorthair_130,9,British Shorthair
+482,British_Shorthair_134,9,British Shorthair
+483,British_Shorthair_135,9,British Shorthair
+484,British_Shorthair_136,9,British Shorthair
+485,British_Shorthair_137,9,British Shorthair
+486,British_Shorthair_139,9,British Shorthair
+487,British_Shorthair_140,9,British Shorthair
+488,British_Shorthair_141,9,British Shorthair
+489,British_Shorthair_144,9,British Shorthair
+490,British_Shorthair_145,9,British Shorthair
+491,British_Shorthair_148,9,British Shorthair
+492,British_Shorthair_149,9,British Shorthair
+493,British_Shorthair_151,9,British Shorthair
+494,British_Shorthair_153,9,British Shorthair
+495,British_Shorthair_154,9,British Shorthair
+496,British_Shorthair_155,9,British Shorthair
+497,British_Shorthair_156,9,British Shorthair
+498,British_Shorthair_157,9,British Shorthair
+499,chihuahua_100,10,Chihuahua
+500,chihuahua_101,10,Chihuahua
+501,chihuahua_102,10,Chihuahua
+504,chihuahua_105,10,Chihuahua
+505,chihuahua_106,10,Chihuahua
+506,chihuahua_107,10,Chihuahua
+507,chihuahua_108,10,Chihuahua
+508,chihuahua_109,10,Chihuahua
+509,chihuahua_10,10,Chihuahua
+510,chihuahua_110,10,Chihuahua
+511,chihuahua_111,10,Chihuahua
+513,chihuahua_113,10,Chihuahua
+514,chihuahua_114,10,Chihuahua
+515,chihuahua_115,10,Chihuahua
+517,chihuahua_117,10,Chihuahua
+518,chihuahua_118,10,Chihuahua
+519,chihuahua_119,10,Chihuahua
+520,chihuahua_11,10,Chihuahua
+521,chihuahua_120,10,Chihuahua
+522,chihuahua_121,10,Chihuahua
+523,chihuahua_122,10,Chihuahua
+525,chihuahua_124,10,Chihuahua
+526,chihuahua_125,10,Chihuahua
+527,chihuahua_126,10,Chihuahua
+529,chihuahua_128,10,Chihuahua
+531,chihuahua_12,10,Chihuahua
+532,chihuahua_130,10,Chihuahua
+534,chihuahua_132,10,Chihuahua
+536,chihuahua_134,10,Chihuahua
+539,chihuahua_137,10,Chihuahua
+541,chihuahua_139,10,Chihuahua
+542,chihuahua_13,10,Chihuahua
+543,chihuahua_140,10,Chihuahua
+544,chihuahua_141,10,Chihuahua
+545,chihuahua_142,10,Chihuahua
+546,chihuahua_143,10,Chihuahua
+547,chihuahua_144,10,Chihuahua
+548,chihuahua_145,10,Chihuahua
+550,Egyptian_Mau_101,11,Egyptian Mau
+551,Egyptian_Mau_102,11,Egyptian Mau
+552,Egyptian_Mau_103,11,Egyptian Mau
+554,Egyptian_Mau_105,11,Egyptian Mau
+555,Egyptian_Mau_106,11,Egyptian Mau
+556,Egyptian_Mau_107,11,Egyptian Mau
+558,Egyptian_Mau_109,11,Egyptian Mau
+560,Egyptian_Mau_110,11,Egyptian Mau
+561,Egyptian_Mau_111,11,Egyptian Mau
+562,Egyptian_Mau_112,11,Egyptian Mau
+563,Egyptian_Mau_113,11,Egyptian Mau
+564,Egyptian_Mau_114,11,Egyptian Mau
+565,Egyptian_Mau_115,11,Egyptian Mau
+566,Egyptian_Mau_116,11,Egyptian Mau
+567,Egyptian_Mau_117,11,Egyptian Mau
+568,Egyptian_Mau_118,11,Egyptian Mau
+570,Egyptian_Mau_11,11,Egyptian Mau
+572,Egyptian_Mau_121,11,Egyptian Mau
+573,Egyptian_Mau_122,11,Egyptian Mau
+574,Egyptian_Mau_123,11,Egyptian Mau
+575,Egyptian_Mau_124,11,Egyptian Mau
+576,Egyptian_Mau_125,11,Egyptian Mau
+578,Egyptian_Mau_127,11,Egyptian Mau
+580,Egyptian_Mau_12,11,Egyptian Mau
+581,Egyptian_Mau_130,11,Egyptian Mau
+582,Egyptian_Mau_131,11,Egyptian Mau
+583,Egyptian_Mau_132,11,Egyptian Mau
+586,Egyptian_Mau_136,11,Egyptian Mau
+587,Egyptian_Mau_138,11,Egyptian Mau
+590,Egyptian_Mau_141,11,Egyptian Mau
+591,Egyptian_Mau_142,11,Egyptian Mau
+592,Egyptian_Mau_143,11,Egyptian Mau
+593,Egyptian_Mau_144,11,Egyptian Mau
+595,Egyptian_Mau_147,11,Egyptian Mau
+597,english_cocker_spaniel_101,12,English Cocker Spaniel
+600,english_cocker_spaniel_104,12,English Cocker Spaniel
+601,english_cocker_spaniel_105,12,English Cocker Spaniel
+604,english_cocker_spaniel_108,12,English Cocker Spaniel
+606,english_cocker_spaniel_10,12,English Cocker Spaniel
+607,english_cocker_spaniel_110,12,English Cocker Spaniel
+608,english_cocker_spaniel_111,12,English Cocker Spaniel
+609,english_cocker_spaniel_112,12,English Cocker Spaniel
+610,english_cocker_spaniel_113,12,English Cocker Spaniel
+611,english_cocker_spaniel_114,12,English Cocker Spaniel
+612,english_cocker_spaniel_115,12,English Cocker Spaniel
+613,english_cocker_spaniel_116,12,English Cocker Spaniel
+614,english_cocker_spaniel_117,12,English Cocker Spaniel
+615,english_cocker_spaniel_118,12,English Cocker Spaniel
+616,english_cocker_spaniel_119,12,English Cocker Spaniel
+617,english_cocker_spaniel_11,12,English Cocker Spaniel
+618,english_cocker_spaniel_120,12,English Cocker Spaniel
+619,english_cocker_spaniel_121,12,English Cocker Spaniel
+620,english_cocker_spaniel_122,12,English Cocker Spaniel
+621,english_cocker_spaniel_123,12,English Cocker Spaniel
+622,english_cocker_spaniel_124,12,English Cocker Spaniel
+623,english_cocker_spaniel_125,12,English Cocker Spaniel
+625,english_cocker_spaniel_127,12,English Cocker Spaniel
+626,english_cocker_spaniel_128,12,English Cocker Spaniel
+628,english_cocker_spaniel_12,12,English Cocker Spaniel
+630,english_cocker_spaniel_131,12,English Cocker Spaniel
+631,english_cocker_spaniel_132,12,English Cocker Spaniel
+632,english_cocker_spaniel_133,12,English Cocker Spaniel
+633,english_cocker_spaniel_134,12,English Cocker Spaniel
+634,english_cocker_spaniel_135,12,English Cocker Spaniel
+635,english_cocker_spaniel_136,12,English Cocker Spaniel
+636,english_cocker_spaniel_137,12,English Cocker Spaniel
+637,english_cocker_spaniel_138,12,English Cocker Spaniel
+638,english_cocker_spaniel_139,12,English Cocker Spaniel
+639,english_cocker_spaniel_13,12,English Cocker Spaniel
+640,english_cocker_spaniel_140,12,English Cocker Spaniel
+641,english_cocker_spaniel_141,12,English Cocker Spaniel
+642,english_cocker_spaniel_142,12,English Cocker Spaniel
+643,english_cocker_spaniel_143,12,English Cocker Spaniel
+644,english_cocker_spaniel_144,12,English Cocker Spaniel
+646,english_setter_100,13,English Setter
+647,english_setter_101,13,English Setter
+648,english_setter_102,13,English Setter
+649,english_setter_103,13,English Setter
+650,english_setter_104,13,English Setter
+652,english_setter_106,13,English Setter
+653,english_setter_107,13,English Setter
+654,english_setter_108,13,English Setter
+655,english_setter_109,13,English Setter
+656,english_setter_10,13,English Setter
+657,english_setter_110,13,English Setter
+658,english_setter_111,13,English Setter
+659,english_setter_112,13,English Setter
+660,english_setter_113,13,English Setter
+661,english_setter_114,13,English Setter
+664,english_setter_117,13,English Setter
+665,english_setter_118,13,English Setter
+666,english_setter_119,13,English Setter
+667,english_setter_11,13,English Setter
+668,english_setter_120,13,English Setter
+669,english_setter_121,13,English Setter
+671,english_setter_123,13,English Setter
+673,english_setter_125,13,English Setter
+674,english_setter_126,13,English Setter
+675,english_setter_127,13,English Setter
+677,english_setter_129,13,English Setter
+678,english_setter_12,13,English Setter
+680,english_setter_131,13,English Setter
+681,english_setter_132,13,English Setter
+684,english_setter_135,13,English Setter
+685,english_setter_136,13,English Setter
+688,english_setter_139,13,English Setter
+689,english_setter_13,13,English Setter
+690,english_setter_140,13,English Setter
+691,english_setter_141,13,English Setter
+692,english_setter_142,13,English Setter
+693,english_setter_143,13,English Setter
+694,english_setter_144,13,English Setter
+695,english_setter_145,13,English Setter
+696,german_shorthaired_100,14,German Shorthaired
+697,german_shorthaired_101,14,German Shorthaired
+698,german_shorthaired_102,14,German Shorthaired
+699,german_shorthaired_103,14,German Shorthaired
+700,german_shorthaired_104,14,German Shorthaired
+701,german_shorthaired_105,14,German Shorthaired
+702,german_shorthaired_106,14,German Shorthaired
+703,german_shorthaired_107,14,German Shorthaired
+704,german_shorthaired_108,14,German Shorthaired
+706,german_shorthaired_10,14,German Shorthaired
+708,german_shorthaired_111,14,German Shorthaired
+709,german_shorthaired_112,14,German Shorthaired
+712,german_shorthaired_115,14,German Shorthaired
+713,german_shorthaired_116,14,German Shorthaired
+714,german_shorthaired_117,14,German Shorthaired
+715,german_shorthaired_118,14,German Shorthaired
+717,german_shorthaired_11,14,German Shorthaired
+718,german_shorthaired_120,14,German Shorthaired
+719,german_shorthaired_121,14,German Shorthaired
+722,german_shorthaired_124,14,German Shorthaired
+723,german_shorthaired_125,14,German Shorthaired
+724,german_shorthaired_126,14,German Shorthaired
+725,german_shorthaired_127,14,German Shorthaired
+726,german_shorthaired_128,14,German Shorthaired
+728,german_shorthaired_12,14,German Shorthaired
+729,german_shorthaired_130,14,German Shorthaired
+730,german_shorthaired_131,14,German Shorthaired
+731,german_shorthaired_132,14,German Shorthaired
+732,german_shorthaired_133,14,German Shorthaired
+733,german_shorthaired_134,14,German Shorthaired
+734,german_shorthaired_135,14,German Shorthaired
+735,german_shorthaired_136,14,German Shorthaired
+736,german_shorthaired_137,14,German Shorthaired
+737,german_shorthaired_138,14,German Shorthaired
+738,german_shorthaired_139,14,German Shorthaired
+739,german_shorthaired_13,14,German Shorthaired
+740,german_shorthaired_140,14,German Shorthaired
+741,german_shorthaired_141,14,German Shorthaired
+743,german_shorthaired_143,14,German Shorthaired
+744,german_shorthaired_144,14,German Shorthaired
+745,german_shorthaired_145,14,German Shorthaired
+746,great_pyrenees_100,15,Great Pyrenees
+747,great_pyrenees_101,15,Great Pyrenees
+748,great_pyrenees_102,15,Great Pyrenees
+749,great_pyrenees_103,15,Great Pyrenees
+750,great_pyrenees_104,15,Great Pyrenees
+751,great_pyrenees_105,15,Great Pyrenees
+752,great_pyrenees_106,15,Great Pyrenees
+753,great_pyrenees_107,15,Great Pyrenees
+754,great_pyrenees_108,15,Great Pyrenees
+755,great_pyrenees_109,15,Great Pyrenees
+758,great_pyrenees_111,15,Great Pyrenees
+759,great_pyrenees_112,15,Great Pyrenees
+761,great_pyrenees_114,15,Great Pyrenees
+762,great_pyrenees_115,15,Great Pyrenees
+763,great_pyrenees_116,15,Great Pyrenees
+764,great_pyrenees_117,15,Great Pyrenees
+765,great_pyrenees_118,15,Great Pyrenees
+766,great_pyrenees_119,15,Great Pyrenees
+767,great_pyrenees_11,15,Great Pyrenees
+768,great_pyrenees_120,15,Great Pyrenees
+769,great_pyrenees_121,15,Great Pyrenees
+771,great_pyrenees_123,15,Great Pyrenees
+772,great_pyrenees_124,15,Great Pyrenees
+773,great_pyrenees_125,15,Great Pyrenees
+774,great_pyrenees_126,15,Great Pyrenees
+775,great_pyrenees_127,15,Great Pyrenees
+776,great_pyrenees_128,15,Great Pyrenees
+777,great_pyrenees_129,15,Great Pyrenees
+778,great_pyrenees_12,15,Great Pyrenees
+779,great_pyrenees_130,15,Great Pyrenees
+780,great_pyrenees_131,15,Great Pyrenees
+781,great_pyrenees_132,15,Great Pyrenees
+783,great_pyrenees_134,15,Great Pyrenees
+785,great_pyrenees_136,15,Great Pyrenees
+786,great_pyrenees_137,15,Great Pyrenees
+787,great_pyrenees_138,15,Great Pyrenees
+789,great_pyrenees_13,15,Great Pyrenees
+790,great_pyrenees_140,15,Great Pyrenees
+792,great_pyrenees_142,15,Great Pyrenees
+793,great_pyrenees_143,15,Great Pyrenees
+795,great_pyrenees_145,15,Great Pyrenees
+796,havanese_100,16,Havanese
+797,havanese_101,16,Havanese
+798,havanese_102,16,Havanese
+799,havanese_103,16,Havanese
+800,havanese_104,16,Havanese
+802,havanese_106,16,Havanese
+803,havanese_107,16,Havanese
+804,havanese_108,16,Havanese
+805,havanese_109,16,Havanese
+806,havanese_10,16,Havanese
+807,havanese_110,16,Havanese
+809,havanese_112,16,Havanese
+810,havanese_113,16,Havanese
+811,havanese_114,16,Havanese
+812,havanese_115,16,Havanese
+813,havanese_116,16,Havanese
+815,havanese_118,16,Havanese
+816,havanese_119,16,Havanese
+817,havanese_11,16,Havanese
+818,havanese_120,16,Havanese
+819,havanese_121,16,Havanese
+820,havanese_122,16,Havanese
+821,havanese_123,16,Havanese
+822,havanese_124,16,Havanese
+823,havanese_125,16,Havanese
+824,havanese_126,16,Havanese
+825,havanese_127,16,Havanese
+826,havanese_128,16,Havanese
+827,havanese_129,16,Havanese
+829,havanese_130,16,Havanese
+830,havanese_131,16,Havanese
+831,havanese_132,16,Havanese
+832,havanese_133,16,Havanese
+833,havanese_134,16,Havanese
+834,havanese_135,16,Havanese
+838,havanese_139,16,Havanese
+839,havanese_13,16,Havanese
+841,havanese_141,16,Havanese
+842,havanese_142,16,Havanese
+844,havanese_144,16,Havanese
+845,havanese_145,16,Havanese
+846,japanese_chin_100,17,Japanese Chin
+848,japanese_chin_102,17,Japanese Chin
+850,japanese_chin_104,17,Japanese Chin
+851,japanese_chin_105,17,Japanese Chin
+852,japanese_chin_106,17,Japanese Chin
+853,japanese_chin_107,17,Japanese Chin
+854,japanese_chin_108,17,Japanese Chin
+855,japanese_chin_109,17,Japanese Chin
+856,japanese_chin_10,17,Japanese Chin
+857,japanese_chin_110,17,Japanese Chin
+859,japanese_chin_112,17,Japanese Chin
+861,japanese_chin_114,17,Japanese Chin
+862,japanese_chin_115,17,Japanese Chin
+863,japanese_chin_116,17,Japanese Chin
+864,japanese_chin_117,17,Japanese Chin
+865,japanese_chin_118,17,Japanese Chin
+866,japanese_chin_119,17,Japanese Chin
+868,japanese_chin_120,17,Japanese Chin
+869,japanese_chin_121,17,Japanese Chin
+870,japanese_chin_122,17,Japanese Chin
+871,japanese_chin_123,17,Japanese Chin
+873,japanese_chin_125,17,Japanese Chin
+875,japanese_chin_127,17,Japanese Chin
+876,japanese_chin_128,17,Japanese Chin
+878,japanese_chin_12,17,Japanese Chin
+879,japanese_chin_130,17,Japanese Chin
+880,japanese_chin_131,17,Japanese Chin
+881,japanese_chin_132,17,Japanese Chin
+882,japanese_chin_133,17,Japanese Chin
+883,japanese_chin_134,17,Japanese Chin
+885,japanese_chin_136,17,Japanese Chin
+886,japanese_chin_137,17,Japanese Chin
+887,japanese_chin_138,17,Japanese Chin
+888,japanese_chin_139,17,Japanese Chin
+889,japanese_chin_13,17,Japanese Chin
+890,japanese_chin_140,17,Japanese Chin
+893,japanese_chin_143,17,Japanese Chin
+894,japanese_chin_144,17,Japanese Chin
+895,japanese_chin_145,17,Japanese Chin
+896,keeshond_100,18,Keeshond
+898,keeshond_102,18,Keeshond
+899,keeshond_103,18,Keeshond
+900,keeshond_104,18,Keeshond
+901,keeshond_105,18,Keeshond
+902,keeshond_106,18,Keeshond
+903,keeshond_107,18,Keeshond
+904,keeshond_108,18,Keeshond
+905,keeshond_109,18,Keeshond
+906,keeshond_10,18,Keeshond
+907,keeshond_110,18,Keeshond
+908,keeshond_111,18,Keeshond
+909,keeshond_112,18,Keeshond
+910,keeshond_113,18,Keeshond
+911,keeshond_114,18,Keeshond
+912,keeshond_115,18,Keeshond
+913,keeshond_116,18,Keeshond
+914,keeshond_117,18,Keeshond
+916,keeshond_119,18,Keeshond
+917,keeshond_11,18,Keeshond
+918,keeshond_120,18,Keeshond
+919,keeshond_121,18,Keeshond
+920,keeshond_122,18,Keeshond
+922,keeshond_124,18,Keeshond
+923,keeshond_125,18,Keeshond
+924,keeshond_126,18,Keeshond
+926,keeshond_128,18,Keeshond
+929,keeshond_130,18,Keeshond
+930,keeshond_131,18,Keeshond
+931,keeshond_132,18,Keeshond
+932,keeshond_133,18,Keeshond
+933,keeshond_134,18,Keeshond
+934,keeshond_135,18,Keeshond
+936,keeshond_137,18,Keeshond
+937,keeshond_138,18,Keeshond
+938,keeshond_139,18,Keeshond
+939,keeshond_13,18,Keeshond
+940,keeshond_140,18,Keeshond
+942,keeshond_142,18,Keeshond
+943,keeshond_143,18,Keeshond
+944,keeshond_144,18,Keeshond
+945,keeshond_145,18,Keeshond
+946,leonberger_100,19,Leonberger
+947,leonberger_101,19,Leonberger
+949,leonberger_103,19,Leonberger
+950,leonberger_104,19,Leonberger
+952,leonberger_106,19,Leonberger
+954,leonberger_108,19,Leonberger
+955,leonberger_109,19,Leonberger
+956,leonberger_10,19,Leonberger
+958,leonberger_111,19,Leonberger
+959,leonberger_112,19,Leonberger
+961,leonberger_114,19,Leonberger
+962,leonberger_115,19,Leonberger
+964,leonberger_117,19,Leonberger
+965,leonberger_118,19,Leonberger
+967,leonberger_11,19,Leonberger
+968,leonberger_120,19,Leonberger
+969,leonberger_121,19,Leonberger
+970,leonberger_122,19,Leonberger
+972,leonberger_124,19,Leonberger
+973,leonberger_125,19,Leonberger
+974,leonberger_126,19,Leonberger
+975,leonberger_127,19,Leonberger
+976,leonberger_128,19,Leonberger
+977,leonberger_129,19,Leonberger
+978,leonberger_12,19,Leonberger
+980,leonberger_131,19,Leonberger
+982,leonberger_133,19,Leonberger
+983,leonberger_134,19,Leonberger
+986,leonberger_137,19,Leonberger
+988,leonberger_139,19,Leonberger
+989,leonberger_13,19,Leonberger
+990,leonberger_140,19,Leonberger
+991,leonberger_141,19,Leonberger
+992,leonberger_142,19,Leonberger
+993,leonberger_143,19,Leonberger
+994,leonberger_144,19,Leonberger
+995,leonberger_145,19,Leonberger
+997,Maine_Coon_101,20,Maine Coon
+998,Maine_Coon_102,20,Maine Coon
+999,Maine_Coon_103,20,Maine Coon
+1000,Maine_Coon_104,20,Maine Coon
+1001,Maine_Coon_105,20,Maine Coon
+1002,Maine_Coon_106,20,Maine Coon
+1004,Maine_Coon_108,20,Maine Coon
+1005,Maine_Coon_109,20,Maine Coon
+1006,Maine_Coon_10,20,Maine Coon
+1007,Maine_Coon_110,20,Maine Coon
+1008,Maine_Coon_111,20,Maine Coon
+1009,Maine_Coon_112,20,Maine Coon
+1010,Maine_Coon_115,20,Maine Coon
+1011,Maine_Coon_116,20,Maine Coon
+1012,Maine_Coon_117,20,Maine Coon
+1013,Maine_Coon_119,20,Maine Coon
+1014,Maine_Coon_121,20,Maine Coon
+1015,Maine_Coon_123,20,Maine Coon
+1016,Maine_Coon_124,20,Maine Coon
+1017,Maine_Coon_126,20,Maine Coon
+1019,Maine_Coon_128,20,Maine Coon
+1020,Maine_Coon_129,20,Maine Coon
+1021,Maine_Coon_131,20,Maine Coon
+1022,Maine_Coon_132,20,Maine Coon
+1023,Maine_Coon_133,20,Maine Coon
+1025,Maine_Coon_135,20,Maine Coon
+1026,Maine_Coon_136,20,Maine Coon
+1027,Maine_Coon_137,20,Maine Coon
+1028,Maine_Coon_138,20,Maine Coon
+1029,Maine_Coon_139,20,Maine Coon
+1030,Maine_Coon_13,20,Maine Coon
+1031,Maine_Coon_140,20,Maine Coon
+1032,Maine_Coon_141,20,Maine Coon
+1035,Maine_Coon_144,20,Maine Coon
+1036,Maine_Coon_145,20,Maine Coon
+1037,Maine_Coon_146,20,Maine Coon
+1041,Maine_Coon_14,20,Maine Coon
+1042,Maine_Coon_150,20,Maine Coon
+1043,Maine_Coon_151,20,Maine Coon
+1044,Maine_Coon_152,20,Maine Coon
+1046,miniature_pinscher_100,21,Miniature Pinscher
+1047,miniature_pinscher_101,21,Miniature Pinscher
+1048,miniature_pinscher_102,21,Miniature Pinscher
+1049,miniature_pinscher_103,21,Miniature Pinscher
+1051,miniature_pinscher_105,21,Miniature Pinscher
+1052,miniature_pinscher_106,21,Miniature Pinscher
+1053,miniature_pinscher_107,21,Miniature Pinscher
+1054,miniature_pinscher_108,21,Miniature Pinscher
+1055,miniature_pinscher_109,21,Miniature Pinscher
+1056,miniature_pinscher_10,21,Miniature Pinscher
+1058,miniature_pinscher_111,21,Miniature Pinscher
+1059,miniature_pinscher_112,21,Miniature Pinscher
+1061,miniature_pinscher_114,21,Miniature Pinscher
+1062,miniature_pinscher_115,21,Miniature Pinscher
+1063,miniature_pinscher_116,21,Miniature Pinscher
+1064,miniature_pinscher_117,21,Miniature Pinscher
+1065,miniature_pinscher_118,21,Miniature Pinscher
+1066,miniature_pinscher_119,21,Miniature Pinscher
+1067,miniature_pinscher_11,21,Miniature Pinscher
+1068,miniature_pinscher_120,21,Miniature Pinscher
+1069,miniature_pinscher_121,21,Miniature Pinscher
+1072,miniature_pinscher_124,21,Miniature Pinscher
+1074,miniature_pinscher_126,21,Miniature Pinscher
+1075,miniature_pinscher_127,21,Miniature Pinscher
+1076,miniature_pinscher_128,21,Miniature Pinscher
+1077,miniature_pinscher_129,21,Miniature Pinscher
+1078,miniature_pinscher_12,21,Miniature Pinscher
+1079,miniature_pinscher_130,21,Miniature Pinscher
+1080,miniature_pinscher_131,21,Miniature Pinscher
+1081,miniature_pinscher_132,21,Miniature Pinscher
+1083,miniature_pinscher_134,21,Miniature Pinscher
+1084,miniature_pinscher_135,21,Miniature Pinscher
+1085,miniature_pinscher_136,21,Miniature Pinscher
+1086,miniature_pinscher_137,21,Miniature Pinscher
+1087,miniature_pinscher_138,21,Miniature Pinscher
+1090,miniature_pinscher_140,21,Miniature Pinscher
+1091,miniature_pinscher_141,21,Miniature Pinscher
+1092,miniature_pinscher_142,21,Miniature Pinscher
+1094,miniature_pinscher_144,21,Miniature Pinscher
+1095,miniature_pinscher_145,21,Miniature Pinscher
+1096,newfoundland_100,22,Newfoundland
+1097,newfoundland_101,22,Newfoundland
+1098,newfoundland_102,22,Newfoundland
+1099,newfoundland_103,22,Newfoundland
+1100,newfoundland_104,22,Newfoundland
+1101,newfoundland_105,22,Newfoundland
+1102,newfoundland_106,22,Newfoundland
+1103,newfoundland_107,22,Newfoundland
+1104,newfoundland_108,22,Newfoundland
+1105,newfoundland_109,22,Newfoundland
+1107,newfoundland_110,22,Newfoundland
+1108,newfoundland_111,22,Newfoundland
+1109,newfoundland_112,22,Newfoundland
+1111,newfoundland_114,22,Newfoundland
+1112,newfoundland_115,22,Newfoundland
+1115,newfoundland_118,22,Newfoundland
+1118,newfoundland_120,22,Newfoundland
+1119,newfoundland_121,22,Newfoundland
+1120,newfoundland_122,22,Newfoundland
+1121,newfoundland_123,22,Newfoundland
+1122,newfoundland_124,22,Newfoundland
+1123,newfoundland_125,22,Newfoundland
+1124,newfoundland_126,22,Newfoundland
+1125,newfoundland_127,22,Newfoundland
+1126,newfoundland_128,22,Newfoundland
+1129,newfoundland_130,22,Newfoundland
+1133,newfoundland_134,22,Newfoundland
+1134,newfoundland_135,22,Newfoundland
+1135,newfoundland_136,22,Newfoundland
+1136,newfoundland_137,22,Newfoundland
+1137,newfoundland_138,22,Newfoundland
+1138,newfoundland_139,22,Newfoundland
+1139,newfoundland_13,22,Newfoundland
+1140,newfoundland_140,22,Newfoundland
+1141,newfoundland_141,22,Newfoundland
+1145,newfoundland_145,22,Newfoundland
+1146,Persian_100,23,Persian
+1147,Persian_101,23,Persian
+1149,Persian_103,23,Persian
+1151,Persian_105,23,Persian
+1152,Persian_106,23,Persian
+1154,Persian_108,23,Persian
+1155,Persian_10,23,Persian
+1156,Persian_111,23,Persian
+1158,Persian_114,23,Persian
+1159,Persian_115,23,Persian
+1160,Persian_116,23,Persian
+1163,Persian_11,23,Persian
+1164,Persian_120,23,Persian
+1165,Persian_121,23,Persian
+1169,Persian_126,23,Persian
+1170,Persian_128,23,Persian
+1171,Persian_129,23,Persian
+1172,Persian_12,23,Persian
+1173,Persian_131,23,Persian
+1174,Persian_132,23,Persian
+1176,Persian_134,23,Persian
+1177,Persian_135,23,Persian
+1178,Persian_136,23,Persian
+1179,Persian_137,23,Persian
+1180,Persian_138,23,Persian
+1181,Persian_139,23,Persian
+1182,Persian_13,23,Persian
+1183,Persian_140,23,Persian
+1184,Persian_141,23,Persian
+1185,Persian_143,23,Persian
+1186,Persian_144,23,Persian
+1187,Persian_145,23,Persian
+1188,Persian_147,23,Persian
+1189,Persian_149,23,Persian
+1190,Persian_14,23,Persian
+1191,Persian_150,23,Persian
+1192,Persian_152,23,Persian
+1193,Persian_153,23,Persian
+1194,Persian_155,23,Persian
+1195,Persian_156,23,Persian
+1196,pomeranian_100,24,Pomeranian
+1198,pomeranian_102,24,Pomeranian
+1199,pomeranian_103,24,Pomeranian
+1200,pomeranian_104,24,Pomeranian
+1202,pomeranian_106,24,Pomeranian
+1203,pomeranian_107,24,Pomeranian
+1204,pomeranian_108,24,Pomeranian
+1205,pomeranian_109,24,Pomeranian
+1206,pomeranian_10,24,Pomeranian
+1209,pomeranian_112,24,Pomeranian
+1210,pomeranian_113,24,Pomeranian
+1211,pomeranian_114,24,Pomeranian
+1212,pomeranian_115,24,Pomeranian
+1214,pomeranian_117,24,Pomeranian
+1216,pomeranian_119,24,Pomeranian
+1217,pomeranian_11,24,Pomeranian
+1218,pomeranian_120,24,Pomeranian
+1219,pomeranian_121,24,Pomeranian
+1221,pomeranian_123,24,Pomeranian
+1222,pomeranian_124,24,Pomeranian
+1223,pomeranian_125,24,Pomeranian
+1224,pomeranian_126,24,Pomeranian
+1225,pomeranian_127,24,Pomeranian
+1228,pomeranian_12,24,Pomeranian
+1229,pomeranian_130,24,Pomeranian
+1230,pomeranian_131,24,Pomeranian
+1231,pomeranian_132,24,Pomeranian
+1232,pomeranian_133,24,Pomeranian
+1233,pomeranian_134,24,Pomeranian
+1234,pomeranian_135,24,Pomeranian
+1235,pomeranian_136,24,Pomeranian
+1236,pomeranian_137,24,Pomeranian
+1237,pomeranian_138,24,Pomeranian
+1239,pomeranian_13,24,Pomeranian
+1241,pomeranian_141,24,Pomeranian
+1242,pomeranian_142,24,Pomeranian
+1243,pomeranian_143,24,Pomeranian
+1244,pomeranian_144,24,Pomeranian
+1245,pomeranian_145,24,Pomeranian
+1248,pug_102,25,Pug
+1249,pug_103,25,Pug
+1250,pug_104,25,Pug
+1251,pug_105,25,Pug
+1252,pug_106,25,Pug
+1253,pug_107,25,Pug
+1256,pug_10,25,Pug
+1257,pug_110,25,Pug
+1259,pug_112,25,Pug
+1260,pug_114,25,Pug
+1261,pug_115,25,Pug
+1263,pug_117,25,Pug
+1264,pug_118,25,Pug
+1265,pug_119,25,Pug
+1267,pug_120,25,Pug
+1268,pug_121,25,Pug
+1269,pug_122,25,Pug
+1270,pug_123,25,Pug
+1271,pug_124,25,Pug
+1272,pug_125,25,Pug
+1273,pug_126,25,Pug
+1275,pug_128,25,Pug
+1276,pug_129,25,Pug
+1277,pug_12,25,Pug
+1278,pug_130,25,Pug
+1279,pug_131,25,Pug
+1280,pug_132,25,Pug
+1281,pug_133,25,Pug
+1282,pug_134,25,Pug
+1284,pug_136,25,Pug
+1285,pug_137,25,Pug
+1288,pug_13,25,Pug
+1289,pug_140,25,Pug
+1290,pug_141,25,Pug
+1291,pug_142,25,Pug
+1292,pug_143,25,Pug
+1294,pug_145,25,Pug
+1295,pug_146,25,Pug
+1296,Ragdoll_100,26,Ragdoll
+1297,Ragdoll_101,26,Ragdoll
+1298,Ragdoll_103,26,Ragdoll
+1299,Ragdoll_104,26,Ragdoll
+1300,Ragdoll_105,26,Ragdoll
+1301,Ragdoll_106,26,Ragdoll
+1302,Ragdoll_107,26,Ragdoll
+1303,Ragdoll_10,26,Ragdoll
+1304,Ragdoll_110,26,Ragdoll
+1307,Ragdoll_113,26,Ragdoll
+1308,Ragdoll_114,26,Ragdoll
+1309,Ragdoll_115,26,Ragdoll
+1311,Ragdoll_117,26,Ragdoll
+1314,Ragdoll_121,26,Ragdoll
+1315,Ragdoll_122,26,Ragdoll
+1316,Ragdoll_124,26,Ragdoll
+1318,Ragdoll_126,26,Ragdoll
+1319,Ragdoll_127,26,Ragdoll
+1321,Ragdoll_129,26,Ragdoll
+1322,Ragdoll_12,26,Ragdoll
+1323,Ragdoll_130,26,Ragdoll
+1324,Ragdoll_131,26,Ragdoll
+1326,Ragdoll_133,26,Ragdoll
+1328,Ragdoll_135,26,Ragdoll
+1329,Ragdoll_136,26,Ragdoll
+1330,Ragdoll_137,26,Ragdoll
+1331,Ragdoll_138,26,Ragdoll
+1332,Ragdoll_139,26,Ragdoll
+1333,Ragdoll_13,26,Ragdoll
+1334,Ragdoll_140,26,Ragdoll
+1336,Ragdoll_142,26,Ragdoll
+1337,Ragdoll_143,26,Ragdoll
+1338,Ragdoll_145,26,Ragdoll
+1340,Ragdoll_147,26,Ragdoll
+1341,Ragdoll_148,26,Ragdoll
+1342,Ragdoll_149,26,Ragdoll
+1343,Ragdoll_150,26,Ragdoll
+1344,Ragdoll_151,26,Ragdoll
+1345,Ragdoll_152,26,Ragdoll
+1346,Russian_Blue_100,27,Russian Blue
+1347,Russian_Blue_101,27,Russian Blue
+1348,Russian_Blue_102,27,Russian Blue
+1350,Russian_Blue_104,27,Russian Blue
+1351,Russian_Blue_106,27,Russian Blue
+1352,Russian_Blue_107,27,Russian Blue
+1353,Russian_Blue_108,27,Russian Blue
+1354,Russian_Blue_109,27,Russian Blue
+1356,Russian_Blue_110,27,Russian Blue
+1357,Russian_Blue_111,27,Russian Blue
+1358,Russian_Blue_112,27,Russian Blue
+1359,Russian_Blue_113,27,Russian Blue
+1360,Russian_Blue_114,27,Russian Blue
+1362,Russian_Blue_116,27,Russian Blue
+1363,Russian_Blue_117,27,Russian Blue
+1364,Russian_Blue_118,27,Russian Blue
+1367,Russian_Blue_122,27,Russian Blue
+1368,Russian_Blue_123,27,Russian Blue
+1370,Russian_Blue_125,27,Russian Blue
+1372,Russian_Blue_128,27,Russian Blue
+1373,Russian_Blue_129,27,Russian Blue
+1374,Russian_Blue_12,27,Russian Blue
+1375,Russian_Blue_130,27,Russian Blue
+1376,Russian_Blue_131,27,Russian Blue
+1377,Russian_Blue_132,27,Russian Blue
+1378,Russian_Blue_133,27,Russian Blue
+1379,Russian_Blue_135,27,Russian Blue
+1380,Russian_Blue_136,27,Russian Blue
+1381,Russian_Blue_137,27,Russian Blue
+1384,Russian_Blue_140,27,Russian Blue
+1385,Russian_Blue_142,27,Russian Blue
+1386,Russian_Blue_143,27,Russian Blue
+1387,Russian_Blue_144,27,Russian Blue
+1388,Russian_Blue_145,27,Russian Blue
+1389,Russian_Blue_146,27,Russian Blue
+1390,Russian_Blue_147,27,Russian Blue
+1391,Russian_Blue_148,27,Russian Blue
+1392,Russian_Blue_149,27,Russian Blue
+1393,Russian_Blue_14,27,Russian Blue
+1394,Russian_Blue_150,27,Russian Blue
+1395,Russian_Blue_151,27,Russian Blue
+1397,saint_bernard_101,28,Saint Bernard
+1398,saint_bernard_102,28,Saint Bernard
+1401,saint_bernard_105,28,Saint Bernard
+1402,saint_bernard_106,28,Saint Bernard
+1403,saint_bernard_107,28,Saint Bernard
+1404,saint_bernard_108,28,Saint Bernard
+1405,saint_bernard_109,28,Saint Bernard
+1406,saint_bernard_10,28,Saint Bernard
+1407,saint_bernard_110,28,Saint Bernard
+1408,saint_bernard_111,28,Saint Bernard
+1409,saint_bernard_112,28,Saint Bernard
+1410,saint_bernard_113,28,Saint Bernard
+1411,saint_bernard_114,28,Saint Bernard
+1412,saint_bernard_115,28,Saint Bernard
+1413,saint_bernard_116,28,Saint Bernard
+1414,saint_bernard_117,28,Saint Bernard
+1415,saint_bernard_118,28,Saint Bernard
+1417,saint_bernard_11,28,Saint Bernard
+1418,saint_bernard_120,28,Saint Bernard
+1420,saint_bernard_122,28,Saint Bernard
+1421,saint_bernard_123,28,Saint Bernard
+1422,saint_bernard_124,28,Saint Bernard
+1423,saint_bernard_125,28,Saint Bernard
+1424,saint_bernard_126,28,Saint Bernard
+1425,saint_bernard_127,28,Saint Bernard
+1426,saint_bernard_128,28,Saint Bernard
+1427,saint_bernard_129,28,Saint Bernard
+1428,saint_bernard_12,28,Saint Bernard
+1429,saint_bernard_130,28,Saint Bernard
+1431,saint_bernard_132,28,Saint Bernard
+1433,saint_bernard_134,28,Saint Bernard
+1435,saint_bernard_136,28,Saint Bernard
+1437,saint_bernard_138,28,Saint Bernard
+1438,saint_bernard_139,28,Saint Bernard
+1439,saint_bernard_13,28,Saint Bernard
+1440,saint_bernard_140,28,Saint Bernard
+1442,saint_bernard_142,28,Saint Bernard
+1443,saint_bernard_143,28,Saint Bernard
+1445,saint_bernard_145,28,Saint Bernard
+1446,samoyed_100,29,Samoyed
+1448,samoyed_102,29,Samoyed
+1449,samoyed_103,29,Samoyed
+1451,samoyed_105,29,Samoyed
+1452,samoyed_106,29,Samoyed
+1453,samoyed_107,29,Samoyed
+1454,samoyed_108,29,Samoyed
+1455,samoyed_109,29,Samoyed
+1456,samoyed_10,29,Samoyed
+1457,samoyed_110,29,Samoyed
+1458,samoyed_111,29,Samoyed
+1459,samoyed_112,29,Samoyed
+1460,samoyed_113,29,Samoyed
+1463,samoyed_116,29,Samoyed
+1464,samoyed_117,29,Samoyed
+1465,samoyed_118,29,Samoyed
+1466,samoyed_119,29,Samoyed
+1468,samoyed_120,29,Samoyed
+1469,samoyed_121,29,Samoyed
+1470,samoyed_122,29,Samoyed
+1471,samoyed_123,29,Samoyed
+1472,samoyed_124,29,Samoyed
+1473,samoyed_125,29,Samoyed
+1474,samoyed_126,29,Samoyed
+1475,samoyed_127,29,Samoyed
+1476,samoyed_128,29,Samoyed
+1477,samoyed_129,29,Samoyed
+1478,samoyed_12,29,Samoyed
+1479,samoyed_130,29,Samoyed
+1480,samoyed_131,29,Samoyed
+1481,samoyed_132,29,Samoyed
+1482,samoyed_133,29,Samoyed
+1486,samoyed_137,29,Samoyed
+1487,samoyed_138,29,Samoyed
+1488,samoyed_139,29,Samoyed
+1489,samoyed_13,29,Samoyed
+1490,samoyed_140,29,Samoyed
+1491,samoyed_141,29,Samoyed
+1492,samoyed_142,29,Samoyed
+1493,samoyed_143,29,Samoyed
+1494,samoyed_144,29,Samoyed
+1495,samoyed_145,29,Samoyed
+1497,scottish_terrier_101,30,Scottish Terrier
+1500,scottish_terrier_104,30,Scottish Terrier
+1501,scottish_terrier_105,30,Scottish Terrier
+1502,scottish_terrier_106,30,Scottish Terrier
+1503,scottish_terrier_107,30,Scottish Terrier
+1505,scottish_terrier_109,30,Scottish Terrier
+1509,scottish_terrier_112,30,Scottish Terrier
+1510,scottish_terrier_113,30,Scottish Terrier
+1512,scottish_terrier_115,30,Scottish Terrier
+1513,scottish_terrier_116,30,Scottish Terrier
+1515,scottish_terrier_118,30,Scottish Terrier
+1517,scottish_terrier_11,30,Scottish Terrier
+1518,scottish_terrier_120,30,Scottish Terrier
+1519,scottish_terrier_121,30,Scottish Terrier
+1521,scottish_terrier_123,30,Scottish Terrier
+1524,scottish_terrier_126,30,Scottish Terrier
+1526,scottish_terrier_128,30,Scottish Terrier
+1528,scottish_terrier_12,30,Scottish Terrier
+1530,scottish_terrier_131,30,Scottish Terrier
+1531,scottish_terrier_132,30,Scottish Terrier
+1532,scottish_terrier_133,30,Scottish Terrier
+1533,scottish_terrier_134,30,Scottish Terrier
+1534,scottish_terrier_135,30,Scottish Terrier
+1535,scottish_terrier_136,30,Scottish Terrier
+1536,scottish_terrier_137,30,Scottish Terrier
+1537,scottish_terrier_138,30,Scottish Terrier
+1538,scottish_terrier_139,30,Scottish Terrier
+1539,scottish_terrier_13,30,Scottish Terrier
+1540,scottish_terrier_140,30,Scottish Terrier
+1542,scottish_terrier_142,30,Scottish Terrier
+1543,scottish_terrier_143,30,Scottish Terrier
+1544,scottish_terrier_144,30,Scottish Terrier
+1545,scottish_terrier_145,30,Scottish Terrier
+1546,shiba_inu_100,31,Shiba Inu
+1547,shiba_inu_101,31,Shiba Inu
+1548,shiba_inu_102,31,Shiba Inu
+1549,shiba_inu_103,31,Shiba Inu
+1550,shiba_inu_104,31,Shiba Inu
+1552,shiba_inu_106,31,Shiba Inu
+1553,shiba_inu_107,31,Shiba Inu
+1554,shiba_inu_108,31,Shiba Inu
+1555,shiba_inu_109,31,Shiba Inu
+1556,shiba_inu_10,31,Shiba Inu
+1557,shiba_inu_110,31,Shiba Inu
+1558,shiba_inu_111,31,Shiba Inu
+1560,shiba_inu_113,31,Shiba Inu
+1561,shiba_inu_114,31,Shiba Inu
+1562,shiba_inu_115,31,Shiba Inu
+1563,shiba_inu_116,31,Shiba Inu
+1565,shiba_inu_118,31,Shiba Inu
+1566,shiba_inu_119,31,Shiba Inu
+1567,shiba_inu_11,31,Shiba Inu
+1569,shiba_inu_121,31,Shiba Inu
+1571,shiba_inu_123,31,Shiba Inu
+1572,shiba_inu_124,31,Shiba Inu
+1573,shiba_inu_125,31,Shiba Inu
+1574,shiba_inu_126,31,Shiba Inu
+1576,shiba_inu_128,31,Shiba Inu
+1577,shiba_inu_129,31,Shiba Inu
+1578,shiba_inu_12,31,Shiba Inu
+1579,shiba_inu_130,31,Shiba Inu
+1581,shiba_inu_132,31,Shiba Inu
+1582,shiba_inu_133,31,Shiba Inu
+1584,shiba_inu_135,31,Shiba Inu
+1586,shiba_inu_137,31,Shiba Inu
+1587,shiba_inu_139,31,Shiba Inu
+1588,shiba_inu_13,31,Shiba Inu
+1589,shiba_inu_140,31,Shiba Inu
+1590,shiba_inu_141,31,Shiba Inu
+1592,shiba_inu_143,31,Shiba Inu
+1593,shiba_inu_144,31,Shiba Inu
+1594,shiba_inu_145,31,Shiba Inu
+1595,shiba_inu_146,31,Shiba Inu
+1597,Siamese_101,32,Siamese
+1598,Siamese_102,32,Siamese
+1600,Siamese_104,32,Siamese
+1602,Siamese_108,32,Siamese
+1603,Siamese_109,32,Siamese
+1604,Siamese_110,32,Siamese
+1605,Siamese_111,32,Siamese
+1606,Siamese_112,32,Siamese
+1607,Siamese_113,32,Siamese
+1608,Siamese_114,32,Siamese
+1609,Siamese_115,32,Siamese
+1610,Siamese_116,32,Siamese
+1611,Siamese_117,32,Siamese
+1612,Siamese_119,32,Siamese
+1613,Siamese_120,32,Siamese
+1614,Siamese_122,32,Siamese
+1615,Siamese_125,32,Siamese
+1616,Siamese_126,32,Siamese
+1618,Siamese_128,32,Siamese
+1619,Siamese_129,32,Siamese
+1621,Siamese_131,32,Siamese
+1622,Siamese_133,32,Siamese
+1624,Siamese_136,32,Siamese
+1625,Siamese_137,32,Siamese
+1626,Siamese_138,32,Siamese
+1627,Siamese_139,32,Siamese
+1628,Siamese_140,32,Siamese
+1630,Siamese_142,32,Siamese
+1631,Siamese_143,32,Siamese
+1632,Siamese_144,32,Siamese
+1634,Siamese_146,32,Siamese
+1635,Siamese_147,32,Siamese
+1636,Siamese_148,32,Siamese
+1637,Siamese_149,32,Siamese
+1638,Siamese_14,32,Siamese
+1639,Siamese_150,32,Siamese
+1641,Siamese_152,32,Siamese
+1642,Siamese_153,32,Siamese
+1643,Siamese_154,32,Siamese
+1644,Siamese_155,32,Siamese
+1645,Siamese_156,32,Siamese
+1646,Sphynx_102,33,Sphynx
+1648,Sphynx_104,33,Sphynx
+1649,Sphynx_105,33,Sphynx
+1650,Sphynx_107,33,Sphynx
+1651,Sphynx_108,33,Sphynx
+1652,Sphynx_110,33,Sphynx
+1653,Sphynx_111,33,Sphynx
+1654,Sphynx_112,33,Sphynx
+1656,Sphynx_115,33,Sphynx
+1657,Sphynx_116,33,Sphynx
+1658,Sphynx_117,33,Sphynx
+1661,Sphynx_121,33,Sphynx
+1662,Sphynx_122,33,Sphynx
+1663,Sphynx_124,33,Sphynx
+1664,Sphynx_125,33,Sphynx
+1665,Sphynx_126,33,Sphynx
+1666,Sphynx_127,33,Sphynx
+1667,Sphynx_128,33,Sphynx
+1668,Sphynx_129,33,Sphynx
+1669,Sphynx_12,33,Sphynx
+1670,Sphynx_130,33,Sphynx
+1671,Sphynx_131,33,Sphynx
+1672,Sphynx_132,33,Sphynx
+1673,Sphynx_133,33,Sphynx
+1675,Sphynx_136,33,Sphynx
+1676,Sphynx_137,33,Sphynx
+1677,Sphynx_138,33,Sphynx
+1678,Sphynx_139,33,Sphynx
+1679,Sphynx_141,33,Sphynx
+1680,Sphynx_142,33,Sphynx
+1681,Sphynx_143,33,Sphynx
+1682,Sphynx_144,33,Sphynx
+1683,Sphynx_145,33,Sphynx
+1687,Sphynx_150,33,Sphynx
+1688,Sphynx_151,33,Sphynx
+1689,Sphynx_152,33,Sphynx
+1690,Sphynx_153,33,Sphynx
+1691,Sphynx_155,33,Sphynx
+1692,Sphynx_156,33,Sphynx
+1693,Sphynx_157,33,Sphynx
+1694,Sphynx_158,33,Sphynx
+1695,Sphynx_159,33,Sphynx
+1696,staffordshire_bull_terrier_100,34,Staffordshire Bull Terrier
+1697,staffordshire_bull_terrier_101,34,Staffordshire Bull Terrier
+1698,staffordshire_bull_terrier_102,34,Staffordshire Bull Terrier
+1700,staffordshire_bull_terrier_104,34,Staffordshire Bull Terrier
+1702,staffordshire_bull_terrier_106,34,Staffordshire Bull Terrier
+1703,staffordshire_bull_terrier_107,34,Staffordshire Bull Terrier
+1704,staffordshire_bull_terrier_108,34,Staffordshire Bull Terrier
+1705,staffordshire_bull_terrier_109,34,Staffordshire Bull Terrier
+1706,staffordshire_bull_terrier_10,34,Staffordshire Bull Terrier
+1707,staffordshire_bull_terrier_110,34,Staffordshire Bull Terrier
+1708,staffordshire_bull_terrier_111,34,Staffordshire Bull Terrier
+1709,staffordshire_bull_terrier_112,34,Staffordshire Bull Terrier
+1711,staffordshire_bull_terrier_114,34,Staffordshire Bull Terrier
+1712,staffordshire_bull_terrier_115,34,Staffordshire Bull Terrier
+1713,staffordshire_bull_terrier_116,34,Staffordshire Bull Terrier
+1714,staffordshire_bull_terrier_117,34,Staffordshire Bull Terrier
+1715,staffordshire_bull_terrier_118,34,Staffordshire Bull Terrier
+1716,staffordshire_bull_terrier_119,34,Staffordshire Bull Terrier
+1717,staffordshire_bull_terrier_11,34,Staffordshire Bull Terrier
+1718,staffordshire_bull_terrier_120,34,Staffordshire Bull Terrier
+1719,staffordshire_bull_terrier_121,34,Staffordshire Bull Terrier
+1720,staffordshire_bull_terrier_122,34,Staffordshire Bull Terrier
+1723,staffordshire_bull_terrier_125,34,Staffordshire Bull Terrier
+1724,staffordshire_bull_terrier_126,34,Staffordshire Bull Terrier
+1726,staffordshire_bull_terrier_128,34,Staffordshire Bull Terrier
+1727,staffordshire_bull_terrier_129,34,Staffordshire Bull Terrier
+1728,staffordshire_bull_terrier_12,34,Staffordshire Bull Terrier
+1729,staffordshire_bull_terrier_130,34,Staffordshire Bull Terrier
+1730,staffordshire_bull_terrier_131,34,Staffordshire Bull Terrier
+1731,staffordshire_bull_terrier_132,34,Staffordshire Bull Terrier
+1732,staffordshire_bull_terrier_133,34,Staffordshire Bull Terrier
+1733,staffordshire_bull_terrier_134,34,Staffordshire Bull Terrier
+1734,staffordshire_bull_terrier_135,34,Staffordshire Bull Terrier
+1735,staffordshire_bull_terrier_136,34,Staffordshire Bull Terrier
+1736,staffordshire_bull_terrier_137,34,Staffordshire Bull Terrier
+1737,staffordshire_bull_terrier_138,34,Staffordshire Bull Terrier
+1738,staffordshire_bull_terrier_139,34,Staffordshire Bull Terrier
+1739,staffordshire_bull_terrier_13,34,Staffordshire Bull Terrier
+1742,staffordshire_bull_terrier_143,34,Staffordshire Bull Terrier
+1743,staffordshire_bull_terrier_144,34,Staffordshire Bull Terrier
+1744,staffordshire_bull_terrier_145,34,Staffordshire Bull Terrier
+1746,wheaten_terrier_100,35,Wheaten Terrier
+1747,wheaten_terrier_101,35,Wheaten Terrier
+1748,wheaten_terrier_102,35,Wheaten Terrier
+1749,wheaten_terrier_103,35,Wheaten Terrier
+1750,wheaten_terrier_104,35,Wheaten Terrier
+1751,wheaten_terrier_105,35,Wheaten Terrier
+1752,wheaten_terrier_106,35,Wheaten Terrier
+1753,wheaten_terrier_107,35,Wheaten Terrier
+1754,wheaten_terrier_108,35,Wheaten Terrier
+1755,wheaten_terrier_109,35,Wheaten Terrier
+1756,wheaten_terrier_10,35,Wheaten Terrier
+1757,wheaten_terrier_110,35,Wheaten Terrier
+1758,wheaten_terrier_111,35,Wheaten Terrier
+1759,wheaten_terrier_112,35,Wheaten Terrier
+1761,wheaten_terrier_114,35,Wheaten Terrier
+1762,wheaten_terrier_115,35,Wheaten Terrier
+1763,wheaten_terrier_116,35,Wheaten Terrier
+1765,wheaten_terrier_118,35,Wheaten Terrier
+1766,wheaten_terrier_119,35,Wheaten Terrier
+1767,wheaten_terrier_11,35,Wheaten Terrier
+1769,wheaten_terrier_121,35,Wheaten Terrier
+1770,wheaten_terrier_122,35,Wheaten Terrier
+1773,wheaten_terrier_125,35,Wheaten Terrier
+1774,wheaten_terrier_126,35,Wheaten Terrier
+1775,wheaten_terrier_127,35,Wheaten Terrier
+1776,wheaten_terrier_128,35,Wheaten Terrier
+1777,wheaten_terrier_129,35,Wheaten Terrier
+1779,wheaten_terrier_130,35,Wheaten Terrier
+1780,wheaten_terrier_131,35,Wheaten Terrier
+1781,wheaten_terrier_132,35,Wheaten Terrier
+1782,wheaten_terrier_133,35,Wheaten Terrier
+1783,wheaten_terrier_134,35,Wheaten Terrier
+1784,wheaten_terrier_135,35,Wheaten Terrier
+1785,wheaten_terrier_136,35,Wheaten Terrier
+1786,wheaten_terrier_137,35,Wheaten Terrier
+1787,wheaten_terrier_138,35,Wheaten Terrier
+1788,wheaten_terrier_139,35,Wheaten Terrier
+1789,wheaten_terrier_13,35,Wheaten Terrier
+1790,wheaten_terrier_140,35,Wheaten Terrier
+1791,wheaten_terrier_141,35,Wheaten Terrier
+1792,wheaten_terrier_142,35,Wheaten Terrier
+1794,wheaten_terrier_144,35,Wheaten Terrier
+1795,wheaten_terrier_145,35,Wheaten Terrier
+1796,yorkshire_terrier_100,36,Yorkshire Terrier
+1797,yorkshire_terrier_101,36,Yorkshire Terrier
+1798,yorkshire_terrier_102,36,Yorkshire Terrier
+1799,yorkshire_terrier_103,36,Yorkshire Terrier
+1800,yorkshire_terrier_104,36,Yorkshire Terrier
+1801,yorkshire_terrier_105,36,Yorkshire Terrier
+1802,yorkshire_terrier_106,36,Yorkshire Terrier
+1804,yorkshire_terrier_108,36,Yorkshire Terrier
+1805,yorkshire_terrier_109,36,Yorkshire Terrier
+1806,yorkshire_terrier_10,36,Yorkshire Terrier
+1807,yorkshire_terrier_110,36,Yorkshire Terrier
+1809,yorkshire_terrier_112,36,Yorkshire Terrier
+1810,yorkshire_terrier_113,36,Yorkshire Terrier
+1813,yorkshire_terrier_116,36,Yorkshire Terrier
+1814,yorkshire_terrier_117,36,Yorkshire Terrier
+1815,yorkshire_terrier_118,36,Yorkshire Terrier
+1816,yorkshire_terrier_119,36,Yorkshire Terrier
+1817,yorkshire_terrier_11,36,Yorkshire Terrier
+1818,yorkshire_terrier_120,36,Yorkshire Terrier
+1819,yorkshire_terrier_121,36,Yorkshire Terrier
+1820,yorkshire_terrier_122,36,Yorkshire Terrier
+1821,yorkshire_terrier_123,36,Yorkshire Terrier
+1822,yorkshire_terrier_124,36,Yorkshire Terrier
+1823,yorkshire_terrier_125,36,Yorkshire Terrier
+1824,yorkshire_terrier_126,36,Yorkshire Terrier
+1825,yorkshire_terrier_127,36,Yorkshire Terrier
+1827,yorkshire_terrier_129,36,Yorkshire Terrier
+1828,yorkshire_terrier_12,36,Yorkshire Terrier
+1830,yorkshire_terrier_131,36,Yorkshire Terrier
+1831,yorkshire_terrier_132,36,Yorkshire Terrier
+1832,yorkshire_terrier_133,36,Yorkshire Terrier
+1833,yorkshire_terrier_134,36,Yorkshire Terrier
+1836,yorkshire_terrier_137,36,Yorkshire Terrier
+1837,yorkshire_terrier_138,36,Yorkshire Terrier
+1838,yorkshire_terrier_139,36,Yorkshire Terrier
+1839,yorkshire_terrier_13,36,Yorkshire Terrier
+1840,yorkshire_terrier_140,36,Yorkshire Terrier
+1841,yorkshire_terrier_141,36,Yorkshire Terrier
+1842,yorkshire_terrier_142,36,Yorkshire Terrier
+1843,yorkshire_terrier_143,36,Yorkshire Terrier
+1844,yorkshire_terrier_144,36,Yorkshire Terrier
+1845,yorkshire_terrier_145,36,Yorkshire Terrier
+1846,Abyssinian_146,0,Abyssinian
+1847,Abyssinian_148,0,Abyssinian
+1849,Abyssinian_14,0,Abyssinian
+1850,Abyssinian_150,0,Abyssinian
+1851,Abyssinian_151,0,Abyssinian
+1852,Abyssinian_152,0,Abyssinian
+1853,Abyssinian_153,0,Abyssinian
+1854,Abyssinian_154,0,Abyssinian
+1857,Abyssinian_157,0,Abyssinian
+1858,Abyssinian_158,0,Abyssinian
+1860,Abyssinian_15,0,Abyssinian
+1861,Abyssinian_160,0,Abyssinian
+1862,Abyssinian_161,0,Abyssinian
+1863,Abyssinian_164,0,Abyssinian
+1864,Abyssinian_165,0,Abyssinian
+1865,Abyssinian_166,0,Abyssinian
+1866,Abyssinian_167,0,Abyssinian
+1868,Abyssinian_169,0,Abyssinian
+1869,Abyssinian_16,0,Abyssinian
+1871,Abyssinian_172,0,Abyssinian
+1872,Abyssinian_173,0,Abyssinian
+1873,Abyssinian_174,0,Abyssinian
+1874,Abyssinian_175,0,Abyssinian
+1875,Abyssinian_176,0,Abyssinian
+1876,Abyssinian_177,0,Abyssinian
+1877,Abyssinian_178,0,Abyssinian
+1879,Abyssinian_17,0,Abyssinian
+1880,Abyssinian_180,0,Abyssinian
+1884,Abyssinian_184,0,Abyssinian
+1885,Abyssinian_185,0,Abyssinian
+1886,Abyssinian_18,0,Abyssinian
+1887,Abyssinian_190,0,Abyssinian
+1889,Abyssinian_192,0,Abyssinian
+1890,Abyssinian_193,0,Abyssinian
+1891,Abyssinian_195,0,Abyssinian
+1892,Abyssinian_196,0,Abyssinian
+1893,Abyssinian_197,0,Abyssinian
+1894,Abyssinian_19,0,Abyssinian
+1896,american_bulldog_147,1,American Bulldog
+1897,american_bulldog_148,1,American Bulldog
+1898,american_bulldog_149,1,American Bulldog
+1899,american_bulldog_14,1,American Bulldog
+1900,american_bulldog_150,1,American Bulldog
+1901,american_bulldog_151,1,American Bulldog
+1902,american_bulldog_152,1,American Bulldog
+1903,american_bulldog_153,1,American Bulldog
+1904,american_bulldog_158,1,American Bulldog
+1905,american_bulldog_15,1,American Bulldog
+1906,american_bulldog_161,1,American Bulldog
+1908,american_bulldog_166,1,American Bulldog
+1909,american_bulldog_167,1,American Bulldog
+1910,american_bulldog_168,1,American Bulldog
+1911,american_bulldog_169,1,American Bulldog
+1912,american_bulldog_16,1,American Bulldog
+1913,american_bulldog_171,1,American Bulldog
+1914,american_bulldog_172,1,American Bulldog
+1915,american_bulldog_173,1,American Bulldog
+1916,american_bulldog_174,1,American Bulldog
+1919,american_bulldog_177,1,American Bulldog
+1920,american_bulldog_178,1,American Bulldog
+1921,american_bulldog_179,1,American Bulldog
+1922,american_bulldog_180,1,American Bulldog
+1923,american_bulldog_181,1,American Bulldog
+1924,american_bulldog_182,1,American Bulldog
+1925,american_bulldog_183,1,American Bulldog
+1927,american_bulldog_185,1,American Bulldog
+1928,american_bulldog_186,1,American Bulldog
+1929,american_bulldog_187,1,American Bulldog
+1930,american_bulldog_188,1,American Bulldog
+1931,american_bulldog_189,1,American Bulldog
+1932,american_bulldog_18,1,American Bulldog
+1933,american_bulldog_190,1,American Bulldog
+1934,american_bulldog_191,1,American Bulldog
+1935,american_bulldog_192,1,American Bulldog
+1936,american_bulldog_193,1,American Bulldog
+1937,american_bulldog_194,1,American Bulldog
+1938,american_bulldog_196,1,American Bulldog
+1939,american_bulldog_197,1,American Bulldog
+1940,american_bulldog_198,1,American Bulldog
+1944,american_bulldog_201,1,American Bulldog
+1945,american_bulldog_202,1,American Bulldog
+1946,american_pit_bull_terrier_146,2,American Pit Bull Terrier
+1947,american_pit_bull_terrier_147,2,American Pit Bull Terrier
+1949,american_pit_bull_terrier_149,2,American Pit Bull Terrier
+1952,american_pit_bull_terrier_151,2,American Pit Bull Terrier
+1953,american_pit_bull_terrier_152,2,American Pit Bull Terrier
+1954,american_pit_bull_terrier_153,2,American Pit Bull Terrier
+1955,american_pit_bull_terrier_154,2,American Pit Bull Terrier
+1956,american_pit_bull_terrier_155,2,American Pit Bull Terrier
+1957,american_pit_bull_terrier_156,2,American Pit Bull Terrier
+1958,american_pit_bull_terrier_157,2,American Pit Bull Terrier
+1959,american_pit_bull_terrier_158,2,American Pit Bull Terrier
+1960,american_pit_bull_terrier_159,2,American Pit Bull Terrier
+1961,american_pit_bull_terrier_15,2,American Pit Bull Terrier
+1962,american_pit_bull_terrier_160,2,American Pit Bull Terrier
+1966,american_pit_bull_terrier_164,2,American Pit Bull Terrier
+1967,american_pit_bull_terrier_165,2,American Pit Bull Terrier
+1968,american_pit_bull_terrier_166,2,American Pit Bull Terrier
+1969,american_pit_bull_terrier_167,2,American Pit Bull Terrier
+1971,american_pit_bull_terrier_169,2,American Pit Bull Terrier
+1972,american_pit_bull_terrier_16,2,American Pit Bull Terrier
+1973,american_pit_bull_terrier_170,2,American Pit Bull Terrier
+1974,american_pit_bull_terrier_171,2,American Pit Bull Terrier
+1975,american_pit_bull_terrier_172,2,American Pit Bull Terrier
+1976,american_pit_bull_terrier_173,2,American Pit Bull Terrier
+1977,american_pit_bull_terrier_174,2,American Pit Bull Terrier
+1978,american_pit_bull_terrier_175,2,American Pit Bull Terrier
+1979,american_pit_bull_terrier_176,2,American Pit Bull Terrier
+1980,american_pit_bull_terrier_177,2,American Pit Bull Terrier
+1981,american_pit_bull_terrier_178,2,American Pit Bull Terrier
+1982,american_pit_bull_terrier_179,2,American Pit Bull Terrier
+1983,american_pit_bull_terrier_17,2,American Pit Bull Terrier
+1984,american_pit_bull_terrier_180,2,American Pit Bull Terrier
+1988,american_pit_bull_terrier_184,2,American Pit Bull Terrier
+1989,american_pit_bull_terrier_185,2,American Pit Bull Terrier
+1990,american_pit_bull_terrier_186,2,American Pit Bull Terrier
+1993,american_pit_bull_terrier_189,2,American Pit Bull Terrier
+1994,american_pit_bull_terrier_18,2,American Pit Bull Terrier
+1995,american_pit_bull_terrier_190,2,American Pit Bull Terrier
+1997,basset_hound_147,3,Basset Hound
+1998,basset_hound_148,3,Basset Hound
+2000,basset_hound_14,3,Basset Hound
+2001,basset_hound_150,3,Basset Hound
+2002,basset_hound_151,3,Basset Hound
+2003,basset_hound_152,3,Basset Hound
+2005,basset_hound_154,3,Basset Hound
+2007,basset_hound_156,3,Basset Hound
+2008,basset_hound_157,3,Basset Hound
+2010,basset_hound_159,3,Basset Hound
+2011,basset_hound_15,3,Basset Hound
+2012,basset_hound_160,3,Basset Hound
+2013,basset_hound_161,3,Basset Hound
+2015,basset_hound_163,3,Basset Hound
+2016,basset_hound_164,3,Basset Hound
+2017,basset_hound_165,3,Basset Hound
+2018,basset_hound_166,3,Basset Hound
+2019,basset_hound_167,3,Basset Hound
+2020,basset_hound_168,3,Basset Hound
+2022,basset_hound_16,3,Basset Hound
+2023,basset_hound_170,3,Basset Hound
+2024,basset_hound_171,3,Basset Hound
+2025,basset_hound_172,3,Basset Hound
+2026,basset_hound_173,3,Basset Hound
+2027,basset_hound_174,3,Basset Hound
+2028,basset_hound_175,3,Basset Hound
+2029,basset_hound_176,3,Basset Hound
+2030,basset_hound_177,3,Basset Hound
+2032,basset_hound_179,3,Basset Hound
+2033,basset_hound_17,3,Basset Hound
+2034,basset_hound_180,3,Basset Hound
+2035,basset_hound_181,3,Basset Hound
+2037,basset_hound_183,3,Basset Hound
+2038,basset_hound_184,3,Basset Hound
+2039,basset_hound_185,3,Basset Hound
+2040,basset_hound_186,3,Basset Hound
+2042,basset_hound_188,3,Basset Hound
+2043,basset_hound_189,3,Basset Hound
+2044,basset_hound_18,3,Basset Hound
+2045,basset_hound_190,3,Basset Hound
+2046,beagle_149,4,Beagle
+2049,beagle_151,4,Beagle
+2051,beagle_153,4,Beagle
+2052,beagle_154,4,Beagle
+2054,beagle_156,4,Beagle
+2056,beagle_158,4,Beagle
+2057,beagle_15,4,Beagle
+2059,beagle_161,4,Beagle
+2060,beagle_162,4,Beagle
+2061,beagle_163,4,Beagle
+2062,beagle_164,4,Beagle
+2064,beagle_166,4,Beagle
+2065,beagle_167,4,Beagle
+2066,beagle_168,4,Beagle
+2067,beagle_169,4,Beagle
+2068,beagle_16,4,Beagle
+2069,beagle_170,4,Beagle
+2070,beagle_171,4,Beagle
+2071,beagle_172,4,Beagle
+2072,beagle_173,4,Beagle
+2073,beagle_174,4,Beagle
+2074,beagle_175,4,Beagle
+2075,beagle_176,4,Beagle
+2076,beagle_177,4,Beagle
+2077,beagle_178,4,Beagle
+2078,beagle_179,4,Beagle
+2079,beagle_17,4,Beagle
+2080,beagle_180,4,Beagle
+2082,beagle_182,4,Beagle
+2083,beagle_183,4,Beagle
+2084,beagle_184,4,Beagle
+2085,beagle_185,4,Beagle
+2086,beagle_186,4,Beagle
+2088,beagle_188,4,Beagle
+2090,beagle_18,4,Beagle
+2091,beagle_190,4,Beagle
+2092,beagle_191,4,Beagle
+2093,beagle_192,4,Beagle
+2094,beagle_193,4,Beagle
+2095,beagle_194,4,Beagle
+2096,Bengal_146,5,Bengal
+2097,Bengal_147,5,Bengal
+2098,Bengal_148,5,Bengal
+2099,Bengal_149,5,Bengal
+2100,Bengal_14,5,Bengal
+2101,Bengal_150,5,Bengal
+2102,Bengal_151,5,Bengal
+2104,Bengal_153,5,Bengal
+2105,Bengal_154,5,Bengal
+2106,Bengal_155,5,Bengal
+2107,Bengal_156,5,Bengal
+2108,Bengal_157,5,Bengal
+2109,Bengal_158,5,Bengal
+2110,Bengal_159,5,Bengal
+2111,Bengal_15,5,Bengal
+2112,Bengal_160,5,Bengal
+2114,Bengal_162,5,Bengal
+2115,Bengal_163,5,Bengal
+2116,Bengal_164,5,Bengal
+2117,Bengal_165,5,Bengal
+2118,Bengal_166,5,Bengal
+2121,Bengal_169,5,Bengal
+2122,Bengal_16,5,Bengal
+2123,Bengal_170,5,Bengal
+2124,Bengal_171,5,Bengal
+2125,Bengal_172,5,Bengal
+2127,Bengal_174,5,Bengal
+2129,Bengal_176,5,Bengal
+2130,Bengal_177,5,Bengal
+2131,Bengal_178,5,Bengal
+2133,Bengal_17,5,Bengal
+2134,Bengal_180,5,Bengal
+2136,Bengal_183,5,Bengal
+2137,Bengal_184,5,Bengal
+2138,Bengal_185,5,Bengal
+2139,Bengal_186,5,Bengal
+2141,Bengal_188,5,Bengal
+2142,Bengal_189,5,Bengal
+2143,Bengal_18,5,Bengal
+2144,Bengal_190,5,Bengal
+2145,Bengal_191,5,Bengal
+2146,Birman_146,6,Birman
+2147,Birman_147,6,Birman
+2148,Birman_148,6,Birman
+2150,Birman_14,6,Birman
+2151,Birman_150,6,Birman
+2152,Birman_151,6,Birman
+2154,Birman_153,6,Birman
+2155,Birman_154,6,Birman
+2157,Birman_156,6,Birman
+2158,Birman_157,6,Birman
+2159,Birman_158,6,Birman
+2160,Birman_159,6,Birman
+2161,Birman_15,6,Birman
+2163,Birman_161,6,Birman
+2164,Birman_162,6,Birman
+2167,Birman_165,6,Birman
+2168,Birman_166,6,Birman
+2170,Birman_168,6,Birman
+2171,Birman_169,6,Birman
+2172,Birman_16,6,Birman
+2173,Birman_170,6,Birman
+2174,Birman_171,6,Birman
+2175,Birman_172,6,Birman
+2176,Birman_173,6,Birman
+2177,Birman_174,6,Birman
+2178,Birman_175,6,Birman
+2179,Birman_176,6,Birman
+2180,Birman_177,6,Birman
+2182,Birman_179,6,Birman
+2185,Birman_181,6,Birman
+2187,Birman_183,6,Birman
+2188,Birman_184,6,Birman
+2189,Birman_185,6,Birman
+2190,Birman_186,6,Birman
+2192,Birman_188,6,Birman
+2193,Birman_189,6,Birman
+2194,Birman_18,6,Birman
+2195,Birman_190,6,Birman
+2196,Bombay_14,7,Bombay
+2197,Bombay_150,7,Bombay
+2198,Bombay_151,7,Bombay
+2199,Bombay_152,7,Bombay
+2200,Bombay_153,7,Bombay
+2202,Bombay_155,7,Bombay
+2203,Bombay_156,7,Bombay
+2204,Bombay_157,7,Bombay
+2206,Bombay_159,7,Bombay
+2207,Bombay_15,7,Bombay
+2208,Bombay_160,7,Bombay
+2210,Bombay_162,7,Bombay
+2212,Bombay_164,7,Bombay
+2213,Bombay_166,7,Bombay
+2214,Bombay_167,7,Bombay
+2215,Bombay_168,7,Bombay
+2216,Bombay_169,7,Bombay
+2217,Bombay_16,7,Bombay
+2218,Bombay_170,7,Bombay
+2219,Bombay_171,7,Bombay
+2220,Bombay_172,7,Bombay
+2221,Bombay_173,7,Bombay
+2222,Bombay_174,7,Bombay
+2224,Bombay_176,7,Bombay
+2225,Bombay_177,7,Bombay
+2226,Bombay_178,7,Bombay
+2227,Bombay_179,7,Bombay
+2228,Bombay_180,7,Bombay
+2229,Bombay_181,7,Bombay
+2230,Bombay_182,7,Bombay
+2233,Bombay_185,7,Bombay
+2234,Bombay_186,7,Bombay
+2235,Bombay_188,7,Bombay
+2236,Bombay_18,7,Bombay
+2237,Bombay_191,7,Bombay
+2239,Bombay_194,7,Bombay
+2240,Bombay_198,7,Bombay
+2242,Bombay_1,7,Bombay
+2244,boxer_147,8,Boxer
+2245,boxer_148,8,Boxer
+2246,boxer_149,8,Boxer
+2249,boxer_151,8,Boxer
+2250,boxer_152,8,Boxer
+2251,boxer_153,8,Boxer
+2252,boxer_154,8,Boxer
+2254,boxer_156,8,Boxer
+2255,boxer_157,8,Boxer
+2256,boxer_158,8,Boxer
+2257,boxer_159,8,Boxer
+2258,boxer_15,8,Boxer
+2260,boxer_161,8,Boxer
+2261,boxer_162,8,Boxer
+2262,boxer_163,8,Boxer
+2263,boxer_164,8,Boxer
+2264,boxer_165,8,Boxer
+2265,boxer_166,8,Boxer
+2266,boxer_167,8,Boxer
+2268,boxer_169,8,Boxer
+2269,boxer_16,8,Boxer
+2270,boxer_170,8,Boxer
+2271,boxer_171,8,Boxer
+2273,boxer_173,8,Boxer
+2274,boxer_174,8,Boxer
+2275,boxer_175,8,Boxer
+2276,boxer_176,8,Boxer
+2277,boxer_177,8,Boxer
+2278,boxer_178,8,Boxer
+2280,boxer_17,8,Boxer
+2281,boxer_180,8,Boxer
+2282,boxer_181,8,Boxer
+2284,boxer_183,8,Boxer
+2285,boxer_184,8,Boxer
+2286,boxer_185,8,Boxer
+2288,boxer_187,8,Boxer
+2289,boxer_188,8,Boxer
+2290,boxer_189,8,Boxer
+2292,boxer_190,8,Boxer
+2293,British_Shorthair_158,9,British Shorthair
+2296,British_Shorthair_160,9,British Shorthair
+2299,British_Shorthair_163,9,British Shorthair
+2300,British_Shorthair_164,9,British Shorthair
+2302,British_Shorthair_166,9,British Shorthair
+2303,British_Shorthair_167,9,British Shorthair
+2305,British_Shorthair_169,9,British Shorthair
+2307,British_Shorthair_170,9,British Shorthair
+2308,British_Shorthair_172,9,British Shorthair
+2309,British_Shorthair_173,9,British Shorthair
+2310,British_Shorthair_174,9,British Shorthair
+2311,British_Shorthair_175,9,British Shorthair
+2313,British_Shorthair_177,9,British Shorthair
+2314,British_Shorthair_178,9,British Shorthair
+2315,British_Shorthair_179,9,British Shorthair
+2316,British_Shorthair_17,9,British Shorthair
+2318,British_Shorthair_181,9,British Shorthair
+2319,British_Shorthair_182,9,British Shorthair
+2320,British_Shorthair_183,9,British Shorthair
+2321,British_Shorthair_184,9,British Shorthair
+2322,British_Shorthair_185,9,British Shorthair
+2323,British_Shorthair_186,9,British Shorthair
+2324,British_Shorthair_187,9,British Shorthair
+2325,British_Shorthair_188,9,British Shorthair
+2327,British_Shorthair_18,9,British Shorthair
+2328,British_Shorthair_190,9,British Shorthair
+2329,British_Shorthair_193,9,British Shorthair
+2331,British_Shorthair_196,9,British Shorthair
+2332,British_Shorthair_197,9,British Shorthair
+2333,British_Shorthair_198,9,British Shorthair
+2334,British_Shorthair_199,9,British Shorthair
+2336,British_Shorthair_201,9,British Shorthair
+2337,British_Shorthair_203,9,British Shorthair
+2339,British_Shorthair_205,9,British Shorthair
+2340,British_Shorthair_207,9,British Shorthair
+2341,British_Shorthair_209,9,British Shorthair
+2342,British_Shorthair_210,9,British Shorthair
+2344,chihuahua_147,10,Chihuahua
+2345,chihuahua_148,10,Chihuahua
+2346,chihuahua_149,10,Chihuahua
+2347,chihuahua_14,10,Chihuahua
+2348,chihuahua_150,10,Chihuahua
+2349,chihuahua_151,10,Chihuahua
+2350,chihuahua_152,10,Chihuahua
+2351,chihuahua_153,10,Chihuahua
+2353,chihuahua_155,10,Chihuahua
+2355,chihuahua_157,10,Chihuahua
+2356,chihuahua_158,10,Chihuahua
+2357,chihuahua_159,10,Chihuahua
+2358,chihuahua_15,10,Chihuahua
+2359,chihuahua_160,10,Chihuahua
+2360,chihuahua_161,10,Chihuahua
+2361,chihuahua_162,10,Chihuahua
+2362,chihuahua_163,10,Chihuahua
+2363,chihuahua_164,10,Chihuahua
+2365,chihuahua_166,10,Chihuahua
+2366,chihuahua_167,10,Chihuahua
+2367,chihuahua_168,10,Chihuahua
+2368,chihuahua_169,10,Chihuahua
+2369,chihuahua_16,10,Chihuahua
+2371,chihuahua_171,10,Chihuahua
+2372,chihuahua_172,10,Chihuahua
+2373,chihuahua_173,10,Chihuahua
+2374,chihuahua_174,10,Chihuahua
+2376,chihuahua_176,10,Chihuahua
+2378,chihuahua_178,10,Chihuahua
+2379,chihuahua_179,10,Chihuahua
+2380,chihuahua_17,10,Chihuahua
+2381,chihuahua_180,10,Chihuahua
+2382,chihuahua_181,10,Chihuahua
+2383,chihuahua_182,10,Chihuahua
+2384,chihuahua_183,10,Chihuahua
+2385,chihuahua_184,10,Chihuahua
+2386,chihuahua_185,10,Chihuahua
+2387,chihuahua_186,10,Chihuahua
+2388,chihuahua_187,10,Chihuahua
+2389,chihuahua_188,10,Chihuahua
+2390,chihuahua_189,10,Chihuahua
+2391,chihuahua_18,10,Chihuahua
+2393,Egyptian_Mau_148,11,Egyptian Mau
+2394,Egyptian_Mau_149,11,Egyptian Mau
+2395,Egyptian_Mau_14,11,Egyptian Mau
+2397,Egyptian_Mau_151,11,Egyptian Mau
+2398,Egyptian_Mau_152,11,Egyptian Mau
+2400,Egyptian_Mau_154,11,Egyptian Mau
+2401,Egyptian_Mau_155,11,Egyptian Mau
+2403,Egyptian_Mau_157,11,Egyptian Mau
+2404,Egyptian_Mau_15,11,Egyptian Mau
+2405,Egyptian_Mau_160,11,Egyptian Mau
+2406,Egyptian_Mau_161,11,Egyptian Mau
+2407,Egyptian_Mau_162,11,Egyptian Mau
+2408,Egyptian_Mau_163,11,Egyptian Mau
+2409,Egyptian_Mau_164,11,Egyptian Mau
+2410,Egyptian_Mau_165,11,Egyptian Mau
+2411,Egyptian_Mau_168,11,Egyptian Mau
+2412,Egyptian_Mau_16,11,Egyptian Mau
+2414,Egyptian_Mau_171,11,Egyptian Mau
+2415,Egyptian_Mau_172,11,Egyptian Mau
+2416,Egyptian_Mau_173,11,Egyptian Mau
+2418,Egyptian_Mau_175,11,Egyptian Mau
+2419,Egyptian_Mau_176,11,Egyptian Mau
+2420,Egyptian_Mau_178,11,Egyptian Mau
+2421,Egyptian_Mau_179,11,Egyptian Mau
+2422,Egyptian_Mau_180,11,Egyptian Mau
+2424,Egyptian_Mau_182,11,Egyptian Mau
+2425,Egyptian_Mau_184,11,Egyptian Mau
+2426,Egyptian_Mau_185,11,Egyptian Mau
+2427,Egyptian_Mau_186,11,Egyptian Mau
+2428,Egyptian_Mau_187,11,Egyptian Mau
+2429,Egyptian_Mau_188,11,Egyptian Mau
+2430,Egyptian_Mau_189,11,Egyptian Mau
+2431,Egyptian_Mau_18,11,Egyptian Mau
+2432,Egyptian_Mau_190,11,Egyptian Mau
+2433,Egyptian_Mau_192,11,Egyptian Mau
+2434,Egyptian_Mau_193,11,Egyptian Mau
+2435,Egyptian_Mau_194,11,Egyptian Mau
+2436,Egyptian_Mau_195,11,Egyptian Mau
+2437,Egyptian_Mau_196,11,Egyptian Mau
+2438,Egyptian_Mau_197,11,Egyptian Mau
+2440,english_cocker_spaniel_147,12,English Cocker Spaniel
+2441,english_cocker_spaniel_148,12,English Cocker Spaniel
+2442,english_cocker_spaniel_149,12,English Cocker Spaniel
+2444,english_cocker_spaniel_150,12,English Cocker Spaniel
+2445,english_cocker_spaniel_151,12,English Cocker Spaniel
+2446,english_cocker_spaniel_152,12,English Cocker Spaniel
+2447,english_cocker_spaniel_153,12,English Cocker Spaniel
+2448,english_cocker_spaniel_154,12,English Cocker Spaniel
+2449,english_cocker_spaniel_155,12,English Cocker Spaniel
+2450,english_cocker_spaniel_156,12,English Cocker Spaniel
+2452,english_cocker_spaniel_158,12,English Cocker Spaniel
+2454,english_cocker_spaniel_15,12,English Cocker Spaniel
+2455,english_cocker_spaniel_160,12,English Cocker Spaniel
+2456,english_cocker_spaniel_161,12,English Cocker Spaniel
+2457,english_cocker_spaniel_165,12,English Cocker Spaniel
+2458,english_cocker_spaniel_166,12,English Cocker Spaniel
+2459,english_cocker_spaniel_167,12,English Cocker Spaniel
+2460,english_cocker_spaniel_168,12,English Cocker Spaniel
+2461,english_cocker_spaniel_169,12,English Cocker Spaniel
+2463,english_cocker_spaniel_170,12,English Cocker Spaniel
+2464,english_cocker_spaniel_171,12,English Cocker Spaniel
+2465,english_cocker_spaniel_172,12,English Cocker Spaniel
+2466,english_cocker_spaniel_173,12,English Cocker Spaniel
+2467,english_cocker_spaniel_174,12,English Cocker Spaniel
+2468,english_cocker_spaniel_175,12,English Cocker Spaniel
+2469,english_cocker_spaniel_176,12,English Cocker Spaniel
+2470,english_cocker_spaniel_177,12,English Cocker Spaniel
+2472,english_cocker_spaniel_17,12,English Cocker Spaniel
+2473,english_cocker_spaniel_180,12,English Cocker Spaniel
+2474,english_cocker_spaniel_181,12,English Cocker Spaniel
+2475,english_cocker_spaniel_182,12,English Cocker Spaniel
+2477,english_cocker_spaniel_184,12,English Cocker Spaniel
+2479,english_cocker_spaniel_186,12,English Cocker Spaniel
+2481,english_cocker_spaniel_188,12,English Cocker Spaniel
+2482,english_cocker_spaniel_189,12,English Cocker Spaniel
+2483,english_cocker_spaniel_18,12,English Cocker Spaniel
+2484,english_cocker_spaniel_190,12,English Cocker Spaniel
+2485,english_setter_146,13,English Setter
+2486,english_setter_147,13,English Setter
+2487,english_setter_148,13,English Setter
+2488,english_setter_149,13,English Setter
+2489,english_setter_14,13,English Setter
+2490,english_setter_150,13,English Setter
+2492,english_setter_152,13,English Setter
+2493,english_setter_153,13,English Setter
+2494,english_setter_154,13,English Setter
+2495,english_setter_155,13,English Setter
+2496,english_setter_156,13,English Setter
+2497,english_setter_157,13,English Setter
+2498,english_setter_158,13,English Setter
+2499,english_setter_159,13,English Setter
+2500,english_setter_15,13,English Setter
+2501,english_setter_160,13,English Setter
+2502,english_setter_161,13,English Setter
+2503,english_setter_162,13,English Setter
+2505,english_setter_164,13,English Setter
+2506,english_setter_165,13,English Setter
+2507,english_setter_166,13,English Setter
+2508,english_setter_167,13,English Setter
+2511,english_setter_16,13,English Setter
+2512,english_setter_170,13,English Setter
+2513,english_setter_171,13,English Setter
+2514,english_setter_172,13,English Setter
+2515,english_setter_173,13,English Setter
+2516,english_setter_174,13,English Setter
+2517,english_setter_175,13,English Setter
+2518,english_setter_176,13,English Setter
+2520,english_setter_178,13,English Setter
+2522,english_setter_17,13,English Setter
+2523,english_setter_180,13,English Setter
+2524,english_setter_181,13,English Setter
+2525,english_setter_182,13,English Setter
+2526,english_setter_183,13,English Setter
+2527,english_setter_184,13,English Setter
+2529,english_setter_186,13,English Setter
+2530,english_setter_187,13,English Setter
+2531,english_setter_188,13,English Setter
+2533,english_setter_18,13,English Setter
+2535,german_shorthaired_146,14,German Shorthaired
+2536,german_shorthaired_147,14,German Shorthaired
+2537,german_shorthaired_148,14,German Shorthaired
+2538,german_shorthaired_149,14,German Shorthaired
+2539,german_shorthaired_14,14,German Shorthaired
+2540,german_shorthaired_150,14,German Shorthaired
+2541,german_shorthaired_151,14,German Shorthaired
+2542,german_shorthaired_152,14,German Shorthaired
+2544,german_shorthaired_154,14,German Shorthaired
+2545,german_shorthaired_155,14,German Shorthaired
+2546,german_shorthaired_156,14,German Shorthaired
+2547,german_shorthaired_157,14,German Shorthaired
+2548,german_shorthaired_158,14,German Shorthaired
+2549,german_shorthaired_159,14,German Shorthaired
+2550,german_shorthaired_15,14,German Shorthaired
+2551,german_shorthaired_160,14,German Shorthaired
+2552,german_shorthaired_161,14,German Shorthaired
+2553,german_shorthaired_162,14,German Shorthaired
+2557,german_shorthaired_166,14,German Shorthaired
+2558,german_shorthaired_167,14,German Shorthaired
+2559,german_shorthaired_168,14,German Shorthaired
+2560,german_shorthaired_169,14,German Shorthaired
+2561,german_shorthaired_16,14,German Shorthaired
+2562,german_shorthaired_170,14,German Shorthaired
+2563,german_shorthaired_171,14,German Shorthaired
+2567,german_shorthaired_175,14,German Shorthaired
+2568,german_shorthaired_176,14,German Shorthaired
+2569,german_shorthaired_177,14,German Shorthaired
+2570,german_shorthaired_178,14,German Shorthaired
+2572,german_shorthaired_17,14,German Shorthaired
+2574,german_shorthaired_181,14,German Shorthaired
+2575,german_shorthaired_182,14,German Shorthaired
+2576,german_shorthaired_183,14,German Shorthaired
+2577,german_shorthaired_184,14,German Shorthaired
+2578,german_shorthaired_185,14,German Shorthaired
+2580,german_shorthaired_187,14,German Shorthaired
+2582,german_shorthaired_189,14,German Shorthaired
+2583,german_shorthaired_18,14,German Shorthaired
+2584,german_shorthaired_190,14,German Shorthaired
+2585,great_pyrenees_146,15,Great Pyrenees
+2586,great_pyrenees_147,15,Great Pyrenees
+2587,great_pyrenees_148,15,Great Pyrenees
+2588,great_pyrenees_149,15,Great Pyrenees
+2589,great_pyrenees_14,15,Great Pyrenees
+2591,great_pyrenees_151,15,Great Pyrenees
+2592,great_pyrenees_152,15,Great Pyrenees
+2594,great_pyrenees_154,15,Great Pyrenees
+2598,great_pyrenees_158,15,Great Pyrenees
+2599,great_pyrenees_159,15,Great Pyrenees
+2600,great_pyrenees_15,15,Great Pyrenees
+2601,great_pyrenees_160,15,Great Pyrenees
+2603,great_pyrenees_162,15,Great Pyrenees
+2606,great_pyrenees_165,15,Great Pyrenees
+2608,great_pyrenees_167,15,Great Pyrenees
+2609,great_pyrenees_168,15,Great Pyrenees
+2610,great_pyrenees_169,15,Great Pyrenees
+2612,great_pyrenees_170,15,Great Pyrenees
+2613,great_pyrenees_171,15,Great Pyrenees
+2614,great_pyrenees_172,15,Great Pyrenees
+2615,great_pyrenees_173,15,Great Pyrenees
+2616,great_pyrenees_174,15,Great Pyrenees
+2617,great_pyrenees_175,15,Great Pyrenees
+2618,great_pyrenees_176,15,Great Pyrenees
+2619,great_pyrenees_177,15,Great Pyrenees
+2620,great_pyrenees_178,15,Great Pyrenees
+2621,great_pyrenees_179,15,Great Pyrenees
+2623,great_pyrenees_180,15,Great Pyrenees
+2624,great_pyrenees_181,15,Great Pyrenees
+2625,great_pyrenees_182,15,Great Pyrenees
+2626,great_pyrenees_183,15,Great Pyrenees
+2627,great_pyrenees_184,15,Great Pyrenees
+2628,great_pyrenees_185,15,Great Pyrenees
+2629,great_pyrenees_186,15,Great Pyrenees
+2630,great_pyrenees_187,15,Great Pyrenees
+2631,great_pyrenees_188,15,Great Pyrenees
+2632,great_pyrenees_189,15,Great Pyrenees
+2633,great_pyrenees_18,15,Great Pyrenees
+2634,great_pyrenees_190,15,Great Pyrenees
+2635,havanese_146,16,Havanese
+2636,havanese_147,16,Havanese
+2638,havanese_149,16,Havanese
+2639,havanese_14,16,Havanese
+2640,havanese_150,16,Havanese
+2641,havanese_151,16,Havanese
+2642,havanese_152,16,Havanese
+2644,havanese_154,16,Havanese
+2645,havanese_155,16,Havanese
+2646,havanese_156,16,Havanese
+2648,havanese_158,16,Havanese
+2649,havanese_159,16,Havanese
+2650,havanese_15,16,Havanese
+2651,havanese_160,16,Havanese
+2652,havanese_161,16,Havanese
+2653,havanese_162,16,Havanese
+2654,havanese_163,16,Havanese
+2655,havanese_164,16,Havanese
+2656,havanese_165,16,Havanese
+2657,havanese_166,16,Havanese
+2658,havanese_167,16,Havanese
+2659,havanese_168,16,Havanese
+2660,havanese_169,16,Havanese
+2662,havanese_170,16,Havanese
+2663,havanese_171,16,Havanese
+2665,havanese_173,16,Havanese
+2666,havanese_174,16,Havanese
+2667,havanese_175,16,Havanese
+2668,havanese_176,16,Havanese
+2669,havanese_177,16,Havanese
+2670,havanese_178,16,Havanese
+2671,havanese_179,16,Havanese
+2674,havanese_181,16,Havanese
+2676,havanese_183,16,Havanese
+2677,havanese_184,16,Havanese
+2678,havanese_185,16,Havanese
+2679,havanese_186,16,Havanese
+2680,havanese_187,16,Havanese
+2681,havanese_188,16,Havanese
+2685,japanese_chin_146,17,Japanese Chin
+2686,japanese_chin_147,17,Japanese Chin
+2687,japanese_chin_148,17,Japanese Chin
+2688,japanese_chin_149,17,Japanese Chin
+2689,japanese_chin_14,17,Japanese Chin
+2690,japanese_chin_150,17,Japanese Chin
+2691,japanese_chin_151,17,Japanese Chin
+2692,japanese_chin_152,17,Japanese Chin
+2693,japanese_chin_153,17,Japanese Chin
+2694,japanese_chin_154,17,Japanese Chin
+2695,japanese_chin_155,17,Japanese Chin
+2696,japanese_chin_156,17,Japanese Chin
+2697,japanese_chin_157,17,Japanese Chin
+2698,japanese_chin_158,17,Japanese Chin
+2699,japanese_chin_159,17,Japanese Chin
+2700,japanese_chin_15,17,Japanese Chin
+2701,japanese_chin_160,17,Japanese Chin
+2702,japanese_chin_161,17,Japanese Chin
+2703,japanese_chin_162,17,Japanese Chin
+2704,japanese_chin_163,17,Japanese Chin
+2705,japanese_chin_164,17,Japanese Chin
+2706,japanese_chin_165,17,Japanese Chin
+2707,japanese_chin_166,17,Japanese Chin
+2708,japanese_chin_167,17,Japanese Chin
+2710,japanese_chin_169,17,Japanese Chin
+2711,japanese_chin_16,17,Japanese Chin
+2713,japanese_chin_171,17,Japanese Chin
+2714,japanese_chin_172,17,Japanese Chin
+2716,japanese_chin_174,17,Japanese Chin
+2717,japanese_chin_175,17,Japanese Chin
+2719,japanese_chin_177,17,Japanese Chin
+2720,japanese_chin_178,17,Japanese Chin
+2721,japanese_chin_179,17,Japanese Chin
+2722,japanese_chin_17,17,Japanese Chin
+2724,japanese_chin_181,17,Japanese Chin
+2726,japanese_chin_183,17,Japanese Chin
+2727,japanese_chin_184,17,Japanese Chin
+2728,japanese_chin_185,17,Japanese Chin
+2729,japanese_chin_186,17,Japanese Chin
+2730,japanese_chin_187,17,Japanese Chin
+2733,japanese_chin_18,17,Japanese Chin
+2735,keeshond_146,18,Keeshond
+2736,keeshond_147,18,Keeshond
+2737,keeshond_148,18,Keeshond
+2739,keeshond_14,18,Keeshond
+2740,keeshond_150,18,Keeshond
+2741,keeshond_151,18,Keeshond
+2742,keeshond_152,18,Keeshond
+2743,keeshond_153,18,Keeshond
+2744,keeshond_154,18,Keeshond
+2745,keeshond_155,18,Keeshond
+2746,keeshond_156,18,Keeshond
+2747,keeshond_157,18,Keeshond
+2748,keeshond_158,18,Keeshond
+2749,keeshond_159,18,Keeshond
+2750,keeshond_15,18,Keeshond
+2751,keeshond_160,18,Keeshond
+2752,keeshond_161,18,Keeshond
+2753,keeshond_162,18,Keeshond
+2754,keeshond_163,18,Keeshond
+2755,keeshond_164,18,Keeshond
+2756,keeshond_165,18,Keeshond
+2757,keeshond_166,18,Keeshond
+2759,keeshond_168,18,Keeshond
+2762,keeshond_170,18,Keeshond
+2765,keeshond_173,18,Keeshond
+2766,keeshond_174,18,Keeshond
+2767,keeshond_175,18,Keeshond
+2768,keeshond_176,18,Keeshond
+2771,keeshond_179,18,Keeshond
+2772,keeshond_17,18,Keeshond
+2773,keeshond_180,18,Keeshond
+2774,keeshond_181,18,Keeshond
+2777,keeshond_184,18,Keeshond
+2779,keeshond_186,18,Keeshond
+2780,keeshond_187,18,Keeshond
+2781,keeshond_188,18,Keeshond
+2783,keeshond_18,18,Keeshond
+2784,keeshond_190,18,Keeshond
+2786,leonberger_147,19,Leonberger
+2787,leonberger_148,19,Leonberger
+2788,leonberger_149,19,Leonberger
+2789,leonberger_14,19,Leonberger
+2790,leonberger_150,19,Leonberger
+2791,leonberger_151,19,Leonberger
+2793,leonberger_153,19,Leonberger
+2794,leonberger_154,19,Leonberger
+2795,leonberger_155,19,Leonberger
+2796,leonberger_156,19,Leonberger
+2797,leonberger_157,19,Leonberger
+2798,leonberger_158,19,Leonberger
+2799,leonberger_159,19,Leonberger
+2801,leonberger_160,19,Leonberger
+2802,leonberger_161,19,Leonberger
+2803,leonberger_162,19,Leonberger
+2804,leonberger_163,19,Leonberger
+2805,leonberger_164,19,Leonberger
+2806,leonberger_165,19,Leonberger
+2807,leonberger_166,19,Leonberger
+2808,leonberger_167,19,Leonberger
+2809,leonberger_168,19,Leonberger
+2810,leonberger_169,19,Leonberger
+2811,leonberger_16,19,Leonberger
+2812,leonberger_170,19,Leonberger
+2814,leonberger_172,19,Leonberger
+2815,leonberger_173,19,Leonberger
+2816,leonberger_174,19,Leonberger
+2817,leonberger_175,19,Leonberger
+2818,leonberger_176,19,Leonberger
+2819,leonberger_177,19,Leonberger
+2820,leonberger_178,19,Leonberger
+2821,leonberger_179,19,Leonberger
+2822,leonberger_17,19,Leonberger
+2823,leonberger_180,19,Leonberger
+2824,leonberger_181,19,Leonberger
+2826,leonberger_183,19,Leonberger
+2827,leonberger_184,19,Leonberger
+2828,leonberger_185,19,Leonberger
+2829,leonberger_186,19,Leonberger
+2831,leonberger_188,19,Leonberger
+2833,leonberger_18,19,Leonberger
+2834,leonberger_190,19,Leonberger
+2835,Maine_Coon_154,20,Maine Coon
+2837,Maine_Coon_157,20,Maine Coon
+2838,Maine_Coon_158,20,Maine Coon
+2839,Maine_Coon_159,20,Maine Coon
+2842,Maine_Coon_162,20,Maine Coon
+2843,Maine_Coon_163,20,Maine Coon
+2844,Maine_Coon_164,20,Maine Coon
+2845,Maine_Coon_167,20,Maine Coon
+2846,Maine_Coon_168,20,Maine Coon
+2847,Maine_Coon_169,20,Maine Coon
+2848,Maine_Coon_16,20,Maine Coon
+2849,Maine_Coon_170,20,Maine Coon
+2850,Maine_Coon_171,20,Maine Coon
+2851,Maine_Coon_173,20,Maine Coon
+2852,Maine_Coon_174,20,Maine Coon
+2853,Maine_Coon_175,20,Maine Coon
+2854,Maine_Coon_176,20,Maine Coon
+2855,Maine_Coon_17,20,Maine Coon
+2856,Maine_Coon_180,20,Maine Coon
+2857,Maine_Coon_182,20,Maine Coon
+2858,Maine_Coon_184,20,Maine Coon
+2859,Maine_Coon_186,20,Maine Coon
+2860,Maine_Coon_187,20,Maine Coon
+2861,Maine_Coon_189,20,Maine Coon
+2862,Maine_Coon_18,20,Maine Coon
+2863,Maine_Coon_191,20,Maine Coon
+2865,Maine_Coon_193,20,Maine Coon
+2866,Maine_Coon_194,20,Maine Coon
+2869,Maine_Coon_197,20,Maine Coon
+2870,Maine_Coon_19,20,Maine Coon
+2871,Maine_Coon_1,20,Maine Coon
+2872,Maine_Coon_201,20,Maine Coon
+2873,Maine_Coon_203,20,Maine Coon
+2874,Maine_Coon_204,20,Maine Coon
+2875,Maine_Coon_205,20,Maine Coon
+2878,Maine_Coon_208,20,Maine Coon
+2880,Maine_Coon_211,20,Maine Coon
+2881,Maine_Coon_213,20,Maine Coon
+2882,Maine_Coon_214,20,Maine Coon
+2883,Maine_Coon_217,20,Maine Coon
+2885,miniature_pinscher_146,21,Miniature Pinscher
+2886,miniature_pinscher_147,21,Miniature Pinscher
+2887,miniature_pinscher_148,21,Miniature Pinscher
+2888,miniature_pinscher_149,21,Miniature Pinscher
+2889,miniature_pinscher_14,21,Miniature Pinscher
+2890,miniature_pinscher_150,21,Miniature Pinscher
+2891,miniature_pinscher_151,21,Miniature Pinscher
+2892,miniature_pinscher_152,21,Miniature Pinscher
+2893,miniature_pinscher_153,21,Miniature Pinscher
+2894,miniature_pinscher_154,21,Miniature Pinscher
+2895,miniature_pinscher_155,21,Miniature Pinscher
+2896,miniature_pinscher_156,21,Miniature Pinscher
+2897,miniature_pinscher_157,21,Miniature Pinscher
+2898,miniature_pinscher_158,21,Miniature Pinscher
+2899,miniature_pinscher_159,21,Miniature Pinscher
+2901,miniature_pinscher_160,21,Miniature Pinscher
+2902,miniature_pinscher_161,21,Miniature Pinscher
+2903,miniature_pinscher_162,21,Miniature Pinscher
+2905,miniature_pinscher_164,21,Miniature Pinscher
+2907,miniature_pinscher_166,21,Miniature Pinscher
+2908,miniature_pinscher_167,21,Miniature Pinscher
+2909,miniature_pinscher_168,21,Miniature Pinscher
+2910,miniature_pinscher_169,21,Miniature Pinscher
+2911,miniature_pinscher_16,21,Miniature Pinscher
+2912,miniature_pinscher_170,21,Miniature Pinscher
+2914,miniature_pinscher_172,21,Miniature Pinscher
+2915,miniature_pinscher_173,21,Miniature Pinscher
+2916,miniature_pinscher_174,21,Miniature Pinscher
+2917,miniature_pinscher_175,21,Miniature Pinscher
+2918,miniature_pinscher_176,21,Miniature Pinscher
+2920,miniature_pinscher_178,21,Miniature Pinscher
+2921,miniature_pinscher_179,21,Miniature Pinscher
+2923,miniature_pinscher_180,21,Miniature Pinscher
+2924,miniature_pinscher_181,21,Miniature Pinscher
+2925,miniature_pinscher_182,21,Miniature Pinscher
+2926,miniature_pinscher_183,21,Miniature Pinscher
+2928,miniature_pinscher_185,21,Miniature Pinscher
+2930,miniature_pinscher_187,21,Miniature Pinscher
+2932,miniature_pinscher_189,21,Miniature Pinscher
+2934,miniature_pinscher_190,21,Miniature Pinscher
+2935,newfoundland_146,22,Newfoundland
+2936,newfoundland_147,22,Newfoundland
+2937,newfoundland_148,22,Newfoundland
+2938,newfoundland_149,22,Newfoundland
+2940,newfoundland_150,22,Newfoundland
+2941,newfoundland_151,22,Newfoundland
+2942,newfoundland_156,22,Newfoundland
+2943,newfoundland_157,22,Newfoundland
+2944,newfoundland_158,22,Newfoundland
+2945,newfoundland_159,22,Newfoundland
+2946,newfoundland_15,22,Newfoundland
+2947,newfoundland_160,22,Newfoundland
+2948,newfoundland_161,22,Newfoundland
+2949,newfoundland_162,22,Newfoundland
+2950,newfoundland_163,22,Newfoundland
+2951,newfoundland_164,22,Newfoundland
+2952,newfoundland_165,22,Newfoundland
+2954,newfoundland_167,22,Newfoundland
+2956,newfoundland_169,22,Newfoundland
+2957,newfoundland_16,22,Newfoundland
+2959,newfoundland_171,22,Newfoundland
+2960,newfoundland_172,22,Newfoundland
+2961,newfoundland_173,22,Newfoundland
+2962,newfoundland_174,22,Newfoundland
+2963,newfoundland_175,22,Newfoundland
+2964,newfoundland_176,22,Newfoundland
+2966,newfoundland_178,22,Newfoundland
+2967,newfoundland_179,22,Newfoundland
+2968,newfoundland_17,22,Newfoundland
+2969,newfoundland_180,22,Newfoundland
+2970,newfoundland_181,22,Newfoundland
+2971,newfoundland_182,22,Newfoundland
+2972,newfoundland_183,22,Newfoundland
+2973,newfoundland_184,22,Newfoundland
+2974,newfoundland_185,22,Newfoundland
+2975,newfoundland_186,22,Newfoundland
+2976,newfoundland_187,22,Newfoundland
+2977,newfoundland_188,22,Newfoundland
+2978,newfoundland_189,22,Newfoundland
+2979,newfoundland_18,22,Newfoundland
+2980,newfoundland_190,22,Newfoundland
+2981,Persian_158,23,Persian
+2982,Persian_159,23,Persian
+2983,Persian_15,23,Persian
+2984,Persian_160,23,Persian
+2986,Persian_162,23,Persian
+2987,Persian_163,23,Persian
+2988,Persian_164,23,Persian
+2989,Persian_165,23,Persian
+2990,Persian_166,23,Persian
+2991,Persian_168,23,Persian
+2992,Persian_169,23,Persian
+2993,Persian_16,23,Persian
+2994,Persian_170,23,Persian
+2996,Persian_172,23,Persian
+2997,Persian_173,23,Persian
+2998,Persian_174,23,Persian
+2999,Persian_175,23,Persian
+3001,Persian_179,23,Persian
+3002,Persian_17,23,Persian
+3003,Persian_180,23,Persian
+3004,Persian_181,23,Persian
+3005,Persian_182,23,Persian
+3006,Persian_183,23,Persian
+3007,Persian_184,23,Persian
+3008,Persian_185,23,Persian
+3009,Persian_186,23,Persian
+3010,Persian_187,23,Persian
+3011,Persian_188,23,Persian
+3012,Persian_189,23,Persian
+3013,Persian_18,23,Persian
+3015,Persian_191,23,Persian
+3016,Persian_192,23,Persian
+3017,Persian_193,23,Persian
+3018,Persian_194,23,Persian
+3020,Persian_196,23,Persian
+3021,Persian_197,23,Persian
+3023,Persian_1,23,Persian
+3024,Persian_200,23,Persian
+3026,Persian_202,23,Persian
+3029,Persian_213,23,Persian
+3031,pomeranian_146,24,Pomeranian
+3032,pomeranian_147,24,Pomeranian
+3033,pomeranian_148,24,Pomeranian
+3034,pomeranian_149,24,Pomeranian
+3035,pomeranian_14,24,Pomeranian
+3036,pomeranian_150,24,Pomeranian
+3037,pomeranian_151,24,Pomeranian
+3038,pomeranian_152,24,Pomeranian
+3039,pomeranian_153,24,Pomeranian
+3041,pomeranian_155,24,Pomeranian
+3042,pomeranian_156,24,Pomeranian
+3044,pomeranian_158,24,Pomeranian
+3045,pomeranian_159,24,Pomeranian
+3046,pomeranian_15,24,Pomeranian
+3047,pomeranian_160,24,Pomeranian
+3049,pomeranian_162,24,Pomeranian
+3050,pomeranian_163,24,Pomeranian
+3051,pomeranian_164,24,Pomeranian
+3052,pomeranian_165,24,Pomeranian
+3053,pomeranian_166,24,Pomeranian
+3054,pomeranian_167,24,Pomeranian
+3055,pomeranian_168,24,Pomeranian
+3056,pomeranian_169,24,Pomeranian
+3057,pomeranian_16,24,Pomeranian
+3060,pomeranian_172,24,Pomeranian
+3061,pomeranian_173,24,Pomeranian
+3062,pomeranian_174,24,Pomeranian
+3063,pomeranian_175,24,Pomeranian
+3064,pomeranian_176,24,Pomeranian
+3065,pomeranian_177,24,Pomeranian
+3066,pomeranian_178,24,Pomeranian
+3067,pomeranian_179,24,Pomeranian
+3068,pomeranian_17,24,Pomeranian
+3069,pomeranian_180,24,Pomeranian
+3070,pomeranian_181,24,Pomeranian
+3071,pomeranian_182,24,Pomeranian
+3074,pomeranian_185,24,Pomeranian
+3076,pomeranian_187,24,Pomeranian
+3077,pomeranian_188,24,Pomeranian
+3078,pomeranian_189,24,Pomeranian
+3079,pomeranian_18,24,Pomeranian
+3081,pug_147,25,Pug
+3083,pug_149,25,Pug
+3084,pug_14,25,Pug
+3085,pug_150,25,Pug
+3086,pug_151,25,Pug
+3087,pug_153,25,Pug
+3089,pug_155,25,Pug
+3091,pug_157,25,Pug
+3092,pug_158,25,Pug
+3093,pug_159,25,Pug
+3095,pug_160,25,Pug
+3096,pug_161,25,Pug
+3097,pug_162,25,Pug
+3098,pug_163,25,Pug
+3099,pug_164,25,Pug
+3100,pug_165,25,Pug
+3101,pug_166,25,Pug
+3102,pug_167,25,Pug
+3103,pug_168,25,Pug
+3104,pug_169,25,Pug
+3105,pug_16,25,Pug
+3106,pug_170,25,Pug
+3107,pug_171,25,Pug
+3108,pug_172,25,Pug
+3109,pug_173,25,Pug
+3110,pug_174,25,Pug
+3111,pug_175,25,Pug
+3112,pug_176,25,Pug
+3113,pug_177,25,Pug
+3114,pug_178,25,Pug
+3115,pug_179,25,Pug
+3116,pug_17,25,Pug
+3117,pug_180,25,Pug
+3118,pug_181,25,Pug
+3119,pug_182,25,Pug
+3120,pug_183,25,Pug
+3121,pug_184,25,Pug
+3122,pug_185,25,Pug
+3124,pug_187,25,Pug
+3126,pug_189,25,Pug
+3128,pug_190,25,Pug
+3130,pug_192,25,Pug
+3132,Ragdoll_154,26,Ragdoll
+3133,Ragdoll_155,26,Ragdoll
+3134,Ragdoll_156,26,Ragdoll
+3136,Ragdoll_159,26,Ragdoll
+3137,Ragdoll_160,26,Ragdoll
+3138,Ragdoll_161,26,Ragdoll
+3140,Ragdoll_163,26,Ragdoll
+3141,Ragdoll_164,26,Ragdoll
+3142,Ragdoll_165,26,Ragdoll
+3143,Ragdoll_166,26,Ragdoll
+3144,Ragdoll_168,26,Ragdoll
+3145,Ragdoll_169,26,Ragdoll
+3146,Ragdoll_16,26,Ragdoll
+3147,Ragdoll_170,26,Ragdoll
+3148,Ragdoll_171,26,Ragdoll
+3149,Ragdoll_172,26,Ragdoll
+3150,Ragdoll_173,26,Ragdoll
+3151,Ragdoll_174,26,Ragdoll
+3152,Ragdoll_175,26,Ragdoll
+3154,Ragdoll_177,26,Ragdoll
+3155,Ragdoll_178,26,Ragdoll
+3156,Ragdoll_179,26,Ragdoll
+3157,Ragdoll_180,26,Ragdoll
+3159,Ragdoll_182,26,Ragdoll
+3160,Ragdoll_183,26,Ragdoll
+3161,Ragdoll_184,26,Ragdoll
+3162,Ragdoll_185,26,Ragdoll
+3163,Ragdoll_186,26,Ragdoll
+3165,Ragdoll_188,26,Ragdoll
+3166,Ragdoll_189,26,Ragdoll
+3167,Ragdoll_18,26,Ragdoll
+3168,Ragdoll_190,26,Ragdoll
+3169,Ragdoll_191,26,Ragdoll
+3170,Ragdoll_192,26,Ragdoll
+3171,Ragdoll_193,26,Ragdoll
+3172,Ragdoll_194,26,Ragdoll
+3173,Ragdoll_195,26,Ragdoll
+3174,Ragdoll_196,26,Ragdoll
+3175,Ragdoll_197,26,Ragdoll
+3176,Ragdoll_198,26,Ragdoll
+3177,Ragdoll_199,26,Ragdoll
+3181,Russian_Blue_152,27,Russian Blue
+3182,Russian_Blue_153,27,Russian Blue
+3183,Russian_Blue_154,27,Russian Blue
+3185,Russian_Blue_156,27,Russian Blue
+3187,Russian_Blue_158,27,Russian Blue
+3189,Russian_Blue_160,27,Russian Blue
+3190,Russian_Blue_161,27,Russian Blue
+3191,Russian_Blue_162,27,Russian Blue
+3192,Russian_Blue_164,27,Russian Blue
+3193,Russian_Blue_165,27,Russian Blue
+3194,Russian_Blue_166,27,Russian Blue
+3195,Russian_Blue_168,27,Russian Blue
+3196,Russian_Blue_169,27,Russian Blue
+3197,Russian_Blue_16,27,Russian Blue
+3198,Russian_Blue_170,27,Russian Blue
+3199,Russian_Blue_171,27,Russian Blue
+3201,Russian_Blue_173,27,Russian Blue
+3202,Russian_Blue_174,27,Russian Blue
+3203,Russian_Blue_175,27,Russian Blue
+3206,Russian_Blue_178,27,Russian Blue
+3207,Russian_Blue_179,27,Russian Blue
+3208,Russian_Blue_17,27,Russian Blue
+3209,Russian_Blue_180,27,Russian Blue
+3210,Russian_Blue_181,27,Russian Blue
+3211,Russian_Blue_182,27,Russian Blue
+3212,Russian_Blue_183,27,Russian Blue
+3214,Russian_Blue_185,27,Russian Blue
+3216,Russian_Blue_187,27,Russian Blue
+3217,Russian_Blue_188,27,Russian Blue
+3218,Russian_Blue_18,27,Russian Blue
+3219,Russian_Blue_191,27,Russian Blue
+3220,Russian_Blue_192,27,Russian Blue
+3221,Russian_Blue_193,27,Russian Blue
+3223,Russian_Blue_195,27,Russian Blue
+3224,Russian_Blue_196,27,Russian Blue
+3226,Russian_Blue_198,27,Russian Blue
+3227,Russian_Blue_199,27,Russian Blue
+3228,Russian_Blue_19,27,Russian Blue
+3229,Russian_Blue_1,27,Russian Blue
+3231,saint_bernard_146,28,Saint Bernard
+3232,saint_bernard_147,28,Saint Bernard
+3233,saint_bernard_148,28,Saint Bernard
+3235,saint_bernard_14,28,Saint Bernard
+3236,saint_bernard_150,28,Saint Bernard
+3238,saint_bernard_152,28,Saint Bernard
+3239,saint_bernard_153,28,Saint Bernard
+3240,saint_bernard_154,28,Saint Bernard
+3241,saint_bernard_155,28,Saint Bernard
+3242,saint_bernard_156,28,Saint Bernard
+3243,saint_bernard_157,28,Saint Bernard
+3245,saint_bernard_159,28,Saint Bernard
+3246,saint_bernard_15,28,Saint Bernard
+3247,saint_bernard_160,28,Saint Bernard
+3248,saint_bernard_161,28,Saint Bernard
+3249,saint_bernard_162,28,Saint Bernard
+3251,saint_bernard_164,28,Saint Bernard
+3252,saint_bernard_165,28,Saint Bernard
+3253,saint_bernard_166,28,Saint Bernard
+3255,saint_bernard_168,28,Saint Bernard
+3256,saint_bernard_169,28,Saint Bernard
+3257,saint_bernard_16,28,Saint Bernard
+3258,saint_bernard_170,28,Saint Bernard
+3259,saint_bernard_171,28,Saint Bernard
+3260,saint_bernard_172,28,Saint Bernard
+3261,saint_bernard_173,28,Saint Bernard
+3262,saint_bernard_174,28,Saint Bernard
+3263,saint_bernard_175,28,Saint Bernard
+3265,saint_bernard_177,28,Saint Bernard
+3266,saint_bernard_178,28,Saint Bernard
+3267,saint_bernard_179,28,Saint Bernard
+3268,saint_bernard_17,28,Saint Bernard
+3269,saint_bernard_180,28,Saint Bernard
+3271,saint_bernard_182,28,Saint Bernard
+3273,saint_bernard_184,28,Saint Bernard
+3274,saint_bernard_185,28,Saint Bernard
+3275,saint_bernard_186,28,Saint Bernard
+3276,saint_bernard_187,28,Saint Bernard
+3277,saint_bernard_188,28,Saint Bernard
+3278,saint_bernard_189,28,Saint Bernard
+3279,saint_bernard_18,28,Saint Bernard
+3282,samoyed_147,29,Samoyed
+3283,samoyed_148,29,Samoyed
+3284,samoyed_149,29,Samoyed
+3285,samoyed_14,29,Samoyed
+3286,samoyed_150,29,Samoyed
+3288,samoyed_152,29,Samoyed
+3289,samoyed_153,29,Samoyed
+3291,samoyed_155,29,Samoyed
+3292,samoyed_156,29,Samoyed
+3293,samoyed_157,29,Samoyed
+3294,samoyed_158,29,Samoyed
+3297,samoyed_160,29,Samoyed
+3298,samoyed_161,29,Samoyed
+3299,samoyed_162,29,Samoyed
+3301,samoyed_164,29,Samoyed
+3302,samoyed_165,29,Samoyed
+3303,samoyed_166,29,Samoyed
+3305,samoyed_168,29,Samoyed
+3307,samoyed_16,29,Samoyed
+3308,samoyed_170,29,Samoyed
+3309,samoyed_171,29,Samoyed
+3310,samoyed_172,29,Samoyed
+3311,samoyed_173,29,Samoyed
+3312,samoyed_174,29,Samoyed
+3313,samoyed_175,29,Samoyed
+3314,samoyed_176,29,Samoyed
+3316,samoyed_178,29,Samoyed
+3317,samoyed_179,29,Samoyed
+3318,samoyed_17,29,Samoyed
+3319,samoyed_180,29,Samoyed
+3320,samoyed_181,29,Samoyed
+3321,samoyed_182,29,Samoyed
+3322,samoyed_183,29,Samoyed
+3323,samoyed_184,29,Samoyed
+3324,samoyed_185,29,Samoyed
+3326,samoyed_187,29,Samoyed
+3327,samoyed_188,29,Samoyed
+3330,samoyed_190,29,Samoyed
+3331,scottish_terrier_146,30,Scottish Terrier
+3332,scottish_terrier_147,30,Scottish Terrier
+3333,scottish_terrier_148,30,Scottish Terrier
+3334,scottish_terrier_149,30,Scottish Terrier
+3335,scottish_terrier_14,30,Scottish Terrier
+3336,scottish_terrier_150,30,Scottish Terrier
+3337,scottish_terrier_151,30,Scottish Terrier
+3338,scottish_terrier_152,30,Scottish Terrier
+3340,scottish_terrier_154,30,Scottish Terrier
+3341,scottish_terrier_155,30,Scottish Terrier
+3342,scottish_terrier_156,30,Scottish Terrier
+3344,scottish_terrier_158,30,Scottish Terrier
+3345,scottish_terrier_159,30,Scottish Terrier
+3346,scottish_terrier_15,30,Scottish Terrier
+3347,scottish_terrier_160,30,Scottish Terrier
+3348,scottish_terrier_161,30,Scottish Terrier
+3350,scottish_terrier_163,30,Scottish Terrier
+3351,scottish_terrier_164,30,Scottish Terrier
+3352,scottish_terrier_165,30,Scottish Terrier
+3353,scottish_terrier_166,30,Scottish Terrier
+3354,scottish_terrier_167,30,Scottish Terrier
+3355,scottish_terrier_168,30,Scottish Terrier
+3356,scottish_terrier_169,30,Scottish Terrier
+3357,scottish_terrier_16,30,Scottish Terrier
+3358,scottish_terrier_170,30,Scottish Terrier
+3359,scottish_terrier_171,30,Scottish Terrier
+3360,scottish_terrier_172,30,Scottish Terrier
+3361,scottish_terrier_173,30,Scottish Terrier
+3362,scottish_terrier_174,30,Scottish Terrier
+3363,scottish_terrier_175,30,Scottish Terrier
+3364,scottish_terrier_176,30,Scottish Terrier
+3365,scottish_terrier_177,30,Scottish Terrier
+3366,scottish_terrier_178,30,Scottish Terrier
+3367,scottish_terrier_179,30,Scottish Terrier
+3368,scottish_terrier_17,30,Scottish Terrier
+3369,scottish_terrier_180,30,Scottish Terrier
+3370,scottish_terrier_181,30,Scottish Terrier
+3371,scottish_terrier_182,30,Scottish Terrier
+3372,scottish_terrier_183,30,Scottish Terrier
+3373,scottish_terrier_184,30,Scottish Terrier
+3374,scottish_terrier_185,30,Scottish Terrier
+3375,scottish_terrier_186,30,Scottish Terrier
+3376,scottish_terrier_187,30,Scottish Terrier
+3377,scottish_terrier_188,30,Scottish Terrier
+3378,scottish_terrier_189,30,Scottish Terrier
+3379,scottish_terrier_18,30,Scottish Terrier
+3380,scottish_terrier_190,30,Scottish Terrier
+3381,shiba_inu_147,31,Shiba Inu
+3382,shiba_inu_14,31,Shiba Inu
+3383,shiba_inu_150,31,Shiba Inu
+3384,shiba_inu_152,31,Shiba Inu
+3385,shiba_inu_153,31,Shiba Inu
+3386,shiba_inu_154,31,Shiba Inu
+3387,shiba_inu_155,31,Shiba Inu
+3388,shiba_inu_156,31,Shiba Inu
+3390,shiba_inu_158,31,Shiba Inu
+3391,shiba_inu_159,31,Shiba Inu
+3393,shiba_inu_160,31,Shiba Inu
+3394,shiba_inu_161,31,Shiba Inu
+3395,shiba_inu_162,31,Shiba Inu
+3396,shiba_inu_163,31,Shiba Inu
+3397,shiba_inu_164,31,Shiba Inu
+3398,shiba_inu_165,31,Shiba Inu
+3399,shiba_inu_166,31,Shiba Inu
+3400,shiba_inu_168,31,Shiba Inu
+3401,shiba_inu_16,31,Shiba Inu
+3403,shiba_inu_171,31,Shiba Inu
+3404,shiba_inu_172,31,Shiba Inu
+3405,shiba_inu_173,31,Shiba Inu
+3406,shiba_inu_174,31,Shiba Inu
+3407,shiba_inu_175,31,Shiba Inu
+3409,shiba_inu_177,31,Shiba Inu
+3410,shiba_inu_178,31,Shiba Inu
+3411,shiba_inu_179,31,Shiba Inu
+3413,shiba_inu_181,31,Shiba Inu
+3415,shiba_inu_183,31,Shiba Inu
+3416,shiba_inu_185,31,Shiba Inu
+3417,shiba_inu_186,31,Shiba Inu
+3418,shiba_inu_187,31,Shiba Inu
+3419,shiba_inu_189,31,Shiba Inu
+3420,shiba_inu_18,31,Shiba Inu
+3422,shiba_inu_191,31,Shiba Inu
+3423,shiba_inu_192,31,Shiba Inu
+3425,shiba_inu_194,31,Shiba Inu
+3426,shiba_inu_195,31,Shiba Inu
+3428,shiba_inu_198,31,Shiba Inu
+3430,shiba_inu_19,31,Shiba Inu
+3432,Siamese_158,32,Siamese
+3433,Siamese_159,32,Siamese
+3434,Siamese_160,32,Siamese
+3436,Siamese_162,32,Siamese
+3437,Siamese_163,32,Siamese
+3438,Siamese_164,32,Siamese
+3439,Siamese_165,32,Siamese
+3440,Siamese_167,32,Siamese
+3441,Siamese_168,32,Siamese
+3442,Siamese_169,32,Siamese
+3443,Siamese_170,32,Siamese
+3444,Siamese_171,32,Siamese
+3445,Siamese_172,32,Siamese
+3448,Siamese_175,32,Siamese
+3449,Siamese_176,32,Siamese
+3450,Siamese_178,32,Siamese
+3453,Siamese_180,32,Siamese
+3454,Siamese_181,32,Siamese
+3455,Siamese_182,32,Siamese
+3457,Siamese_184,32,Siamese
+3458,Siamese_185,32,Siamese
+3459,Siamese_186,32,Siamese
+3460,Siamese_187,32,Siamese
+3461,Siamese_188,32,Siamese
+3462,Siamese_189,32,Siamese
+3463,Siamese_18,32,Siamese
+3464,Siamese_191,32,Siamese
+3465,Siamese_193,32,Siamese
+3467,Siamese_195,32,Siamese
+3468,Siamese_196,32,Siamese
+3469,Siamese_198,32,Siamese
+3470,Siamese_199,32,Siamese
+3471,Siamese_19,32,Siamese
+3473,Siamese_201,32,Siamese
+3474,Siamese_202,32,Siamese
+3475,Siamese_204,32,Siamese
+3476,Siamese_205,32,Siamese
+3479,Siamese_208,32,Siamese
+3481,Sphynx_160,33,Sphynx
+3482,Sphynx_162,33,Sphynx
+3483,Sphynx_164,33,Sphynx
+3484,Sphynx_165,33,Sphynx
+3485,Sphynx_166,33,Sphynx
+3486,Sphynx_167,33,Sphynx
+3487,Sphynx_168,33,Sphynx
+3488,Sphynx_169,33,Sphynx
+3489,Sphynx_170,33,Sphynx
+3490,Sphynx_171,33,Sphynx
+3491,Sphynx_172,33,Sphynx
+3493,Sphynx_174,33,Sphynx
+3494,Sphynx_175,33,Sphynx
+3496,Sphynx_177,33,Sphynx
+3497,Sphynx_178,33,Sphynx
+3498,Sphynx_179,33,Sphynx
+3499,Sphynx_17,33,Sphynx
+3500,Sphynx_180,33,Sphynx
+3501,Sphynx_181,33,Sphynx
+3507,Sphynx_187,33,Sphynx
+3508,Sphynx_188,33,Sphynx
+3509,Sphynx_189,33,Sphynx
+3510,Sphynx_18,33,Sphynx
+3512,Sphynx_191,33,Sphynx
+3514,Sphynx_193,33,Sphynx
+3515,Sphynx_194,33,Sphynx
+3516,Sphynx_195,33,Sphynx
+3518,Sphynx_197,33,Sphynx
+3519,Sphynx_198,33,Sphynx
+3520,Sphynx_199,33,Sphynx
+3521,Sphynx_19,33,Sphynx
+3522,Sphynx_1,33,Sphynx
+3523,Sphynx_200,33,Sphynx
+3524,Sphynx_201,33,Sphynx
+3525,Sphynx_202,33,Sphynx
+3527,Sphynx_204,33,Sphynx
+3528,Sphynx_205,33,Sphynx
+3529,Sphynx_206,33,Sphynx
+3531,staffordshire_bull_terrier_14,34,Staffordshire Bull Terrier
+3532,staffordshire_bull_terrier_150,34,Staffordshire Bull Terrier
+3533,staffordshire_bull_terrier_151,34,Staffordshire Bull Terrier
+3534,staffordshire_bull_terrier_152,34,Staffordshire Bull Terrier
+3535,staffordshire_bull_terrier_154,34,Staffordshire Bull Terrier
+3536,staffordshire_bull_terrier_155,34,Staffordshire Bull Terrier
+3537,staffordshire_bull_terrier_156,34,Staffordshire Bull Terrier
+3539,staffordshire_bull_terrier_159,34,Staffordshire Bull Terrier
+3540,staffordshire_bull_terrier_15,34,Staffordshire Bull Terrier
+3541,staffordshire_bull_terrier_160,34,Staffordshire Bull Terrier
+3542,staffordshire_bull_terrier_162,34,Staffordshire Bull Terrier
+3544,staffordshire_bull_terrier_165,34,Staffordshire Bull Terrier
+3545,staffordshire_bull_terrier_166,34,Staffordshire Bull Terrier
+3547,staffordshire_bull_terrier_168,34,Staffordshire Bull Terrier
+3549,staffordshire_bull_terrier_16,34,Staffordshire Bull Terrier
+3550,staffordshire_bull_terrier_170,34,Staffordshire Bull Terrier
+3551,staffordshire_bull_terrier_171,34,Staffordshire Bull Terrier
+3552,staffordshire_bull_terrier_172,34,Staffordshire Bull Terrier
+3553,staffordshire_bull_terrier_173,34,Staffordshire Bull Terrier
+3555,staffordshire_bull_terrier_175,34,Staffordshire Bull Terrier
+3556,staffordshire_bull_terrier_176,34,Staffordshire Bull Terrier
+3557,staffordshire_bull_terrier_177,34,Staffordshire Bull Terrier
+3558,staffordshire_bull_terrier_179,34,Staffordshire Bull Terrier
+3559,staffordshire_bull_terrier_17,34,Staffordshire Bull Terrier
+3560,staffordshire_bull_terrier_180,34,Staffordshire Bull Terrier
+3561,staffordshire_bull_terrier_181,34,Staffordshire Bull Terrier
+3562,staffordshire_bull_terrier_183,34,Staffordshire Bull Terrier
+3563,staffordshire_bull_terrier_184,34,Staffordshire Bull Terrier
+3564,staffordshire_bull_terrier_185,34,Staffordshire Bull Terrier
+3565,staffordshire_bull_terrier_186,34,Staffordshire Bull Terrier
+3566,staffordshire_bull_terrier_188,34,Staffordshire Bull Terrier
+3568,staffordshire_bull_terrier_18,34,Staffordshire Bull Terrier
+3569,staffordshire_bull_terrier_190,34,Staffordshire Bull Terrier
+3570,staffordshire_bull_terrier_191,34,Staffordshire Bull Terrier
+3571,staffordshire_bull_terrier_192,34,Staffordshire Bull Terrier
+3572,staffordshire_bull_terrier_194,34,Staffordshire Bull Terrier
+3573,staffordshire_bull_terrier_195,34,Staffordshire Bull Terrier
+3575,staffordshire_bull_terrier_197,34,Staffordshire Bull Terrier
+3577,staffordshire_bull_terrier_199,34,Staffordshire Bull Terrier
+3583,wheaten_terrier_149,35,Wheaten Terrier
+3585,wheaten_terrier_150,35,Wheaten Terrier
+3586,wheaten_terrier_151,35,Wheaten Terrier
+3587,wheaten_terrier_152,35,Wheaten Terrier
+3588,wheaten_terrier_153,35,Wheaten Terrier
+3589,wheaten_terrier_154,35,Wheaten Terrier
+3590,wheaten_terrier_155,35,Wheaten Terrier
+3592,wheaten_terrier_157,35,Wheaten Terrier
+3594,wheaten_terrier_159,35,Wheaten Terrier
+3595,wheaten_terrier_15,35,Wheaten Terrier
+3596,wheaten_terrier_160,35,Wheaten Terrier
+3597,wheaten_terrier_161,35,Wheaten Terrier
+3598,wheaten_terrier_162,35,Wheaten Terrier
+3600,wheaten_terrier_164,35,Wheaten Terrier
+3601,wheaten_terrier_165,35,Wheaten Terrier
+3602,wheaten_terrier_166,35,Wheaten Terrier
+3603,wheaten_terrier_167,35,Wheaten Terrier
+3605,wheaten_terrier_169,35,Wheaten Terrier
+3606,wheaten_terrier_16,35,Wheaten Terrier
+3608,wheaten_terrier_171,35,Wheaten Terrier
+3609,wheaten_terrier_172,35,Wheaten Terrier
+3611,wheaten_terrier_174,35,Wheaten Terrier
+3612,wheaten_terrier_175,35,Wheaten Terrier
+3613,wheaten_terrier_176,35,Wheaten Terrier
+3614,wheaten_terrier_177,35,Wheaten Terrier
+3615,wheaten_terrier_178,35,Wheaten Terrier
+3616,wheaten_terrier_179,35,Wheaten Terrier
+3618,wheaten_terrier_180,35,Wheaten Terrier
+3619,wheaten_terrier_181,35,Wheaten Terrier
+3620,wheaten_terrier_182,35,Wheaten Terrier
+3621,wheaten_terrier_183,35,Wheaten Terrier
+3623,wheaten_terrier_185,35,Wheaten Terrier
+3624,wheaten_terrier_186,35,Wheaten Terrier
+3626,wheaten_terrier_188,35,Wheaten Terrier
+3627,wheaten_terrier_189,35,Wheaten Terrier
+3628,wheaten_terrier_18,35,Wheaten Terrier
+3629,wheaten_terrier_190,35,Wheaten Terrier
+3630,yorkshire_terrier_146,36,Yorkshire Terrier
+3631,yorkshire_terrier_147,36,Yorkshire Terrier
+3632,yorkshire_terrier_148,36,Yorkshire Terrier
+3633,yorkshire_terrier_149,36,Yorkshire Terrier
+3636,yorkshire_terrier_151,36,Yorkshire Terrier
+3637,yorkshire_terrier_152,36,Yorkshire Terrier
+3638,yorkshire_terrier_153,36,Yorkshire Terrier
+3641,yorkshire_terrier_156,36,Yorkshire Terrier
+3642,yorkshire_terrier_157,36,Yorkshire Terrier
+3643,yorkshire_terrier_158,36,Yorkshire Terrier
+3644,yorkshire_terrier_159,36,Yorkshire Terrier
+3647,yorkshire_terrier_161,36,Yorkshire Terrier
+3648,yorkshire_terrier_162,36,Yorkshire Terrier
+3649,yorkshire_terrier_163,36,Yorkshire Terrier
+3650,yorkshire_terrier_164,36,Yorkshire Terrier
+3651,yorkshire_terrier_165,36,Yorkshire Terrier
+3652,yorkshire_terrier_166,36,Yorkshire Terrier
+3653,yorkshire_terrier_167,36,Yorkshire Terrier
+3654,yorkshire_terrier_168,36,Yorkshire Terrier
+3655,yorkshire_terrier_169,36,Yorkshire Terrier
+3656,yorkshire_terrier_16,36,Yorkshire Terrier
+3658,yorkshire_terrier_171,36,Yorkshire Terrier
+3659,yorkshire_terrier_172,36,Yorkshire Terrier
+3660,yorkshire_terrier_173,36,Yorkshire Terrier
+3661,yorkshire_terrier_174,36,Yorkshire Terrier
+3663,yorkshire_terrier_176,36,Yorkshire Terrier
+3664,yorkshire_terrier_177,36,Yorkshire Terrier
+3665,yorkshire_terrier_178,36,Yorkshire Terrier
+3666,yorkshire_terrier_179,36,Yorkshire Terrier
+3667,yorkshire_terrier_17,36,Yorkshire Terrier
+3668,yorkshire_terrier_180,36,Yorkshire Terrier
+3669,yorkshire_terrier_181,36,Yorkshire Terrier
+3671,yorkshire_terrier_183,36,Yorkshire Terrier
+3672,yorkshire_terrier_184,36,Yorkshire Terrier
+3674,yorkshire_terrier_186,36,Yorkshire Terrier
+3675,yorkshire_terrier_187,36,Yorkshire Terrier
+3678,yorkshire_terrier_18,36,Yorkshire Terrier
+3679,yorkshire_terrier_190,36,Yorkshire Terrier
