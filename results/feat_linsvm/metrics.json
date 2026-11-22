@@ -1,0 +1,65 @@
+{
+  "approach": "feat_linsvm",
+  "device": "cuda",
+  "hyperparameters": {
+    "classifier": "LinearSVC",
+    "C": 0.01,
+    "C_grid": [
+      0.001,
+      0.01,
+      0.1,
+      1.0,
+      10.0
+    ],
+    "feature_scaling": "StandardScaler (fit on train)",
+    "dimensionality_reduction": "none"
+  },
+  "model_selection": "C with highest validation macro-F1",
+  "validation_search": [
+    {
+      "C": 0.001,
+      "accuracy": 0.873641304347826,
+      "macro_f1": 0.8721013318229627
+    },
+    {
+      "C": 0.01,
+      "accuracy": 0.875,
+      "macro_f1": 0.873913210325386
+    },
+    {
+      "C": 0.1,
+      "accuracy": 0.8288043478260869,
+      "macro_f1": 0.8281312357177347
+    },
+    {
+      "C": 1.0,
+      "accuracy": 0.813858695652174,
+      "macro_f1": 0.8116890858943264
+    },
+    {
+      "C": 10.0,
+      "accuracy": 0.811141304347826,
+      "macro_f1": 0.8094679837336335
+    }
+  ],
+  "checkpoint": "checkpoints/feat_linsvm.joblib",
+  "trainable_parameters": 21349,
+  "feature_extraction_time_s": 47.1,
+  "classifier_fit_time_s": 13.1,
+  "grid_search_time_s": 2243.3,
+  "train_time_s": 2290.5,
+  "metrics": {
+    "train": {
+      "accuracy": 0.9989809782608695,
+      "macro_f1": 0.9989864600918744
+    },
+    "val": {
+      "accuracy": 0.875,
+      "macro_f1": 0.873913210325386
+    },
+    "test": {
+      "accuracy": 0.833469610248024,
+      "macro_f1": 0.8308542525118069
+    }
+  }
+}

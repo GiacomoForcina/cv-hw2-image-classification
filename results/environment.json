@@ -1,10 +1,10 @@
 {
-  "python": "3.14.3",
-  "os": "Windows-11-10.0.26300-SP0",
-  "torch": "2.15.0+cpu",
-  "torchvision": "0.29.2+cpu",
-  "scikit-learn": "1.9.1",
-  "device": "cpu",
-  "cuda": null,
-  "cudnn": null
+  "python": "3.13.16",
+  "os": "Linux-6.6.159+-x86_64-with-glibc2.39",
+  "torch": "2.14.1+cu130",
+  "torchvision": "0.29.1+cu130",
+  "scikit-learn": "1.6.1",
+  "device": "cuda",
+  "cuda": "13.0",
+  "cudnn": 92800
 }

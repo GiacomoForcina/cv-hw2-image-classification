@@ -18,11 +18,11 @@ Tested with (exact versions are also written to `results/environment.json` by `s
 
 | Software | Version |
 |---|---|
-| Python | X.Y.Z |
-| PyTorch | X.Y.Z |
-| TorchVision | X.Y.Z |
-| scikit-learn | X.Y.Z |
-| Hardware | CPU / GPU model |
+| Python | 3.13.16 |
+| PyTorch | 2.14.1+cu130 |
+| TorchVision | 0.29.1+cu130 |
+| scikit-learn | 1.6.1 |
+| Hardware | Google Colab, NVIDIA T4 GPU |
 
 ```bash
 python -m venv .venv

@@ -1,0 +1,32 @@
+{
+  "approach": "head",
+  "device": "cuda",
+  "hyperparameters": {
+    "lr": 0.001,
+    "epochs": 15,
+    "batch_size": 32,
+    "weight_decay": 0.0001,
+    "optimizer": "AdamW",
+    "loss": "CrossEntropyLoss",
+    "scheduler": "CosineAnnealingLR"
+  },
+  "model_selection": "epoch with highest validation macro-F1",
+  "selected_epoch": 11,
+  "checkpoint": "checkpoints/head.pt",
+  "trainable_parameters": 628773,
+  "train_time_s": 325.8,
+  "metrics": {
+    "train": {
+      "accuracy": 0.9972826086956522,
+      "macro_f1": 0.9972971120150904
+    },
+    "val": {
+      "accuracy": 0.8994565217391305,
+      "macro_f1": 0.8999498864355854
+    },
+    "test": {
+      "accuracy": 0.8738075769964568,
+      "macro_f1": 0.873292098898833
+    }
+  }
+}
