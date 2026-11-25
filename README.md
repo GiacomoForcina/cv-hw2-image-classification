@@ -10,7 +10,7 @@ MobileNetV3-Small, comparing three transfer-learning strategies:
    features (after global average pooling); scikit-learn classifiers (logistic regression and
    linear SVM) are trained on them.
 
-Computer Vision course — University of Verona, Fall 2026. Author: Giacomo Forcina.
+Computer Vision course — University of Verona, Fall 2026. Author: Giacomo Federico Forcina.
 
 ## Environment
 
